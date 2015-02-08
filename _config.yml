@@ -1,15 +1,17 @@
 permalink: /:categories/:title.html
-url: "http://pasindud.github.io/jekyll-masonry/"
-full_name: "Your Full Name"
-first_name: "First Name"
-last_name: "Last Name"
-blog_title: "Blog title "
-author_img_name_path: "/images/users/user.jpg"
-disqus_shortname: "pasinduland"
-copyright_year: "2014"
+#url: "http://frankchen07.github.io/ccaveman"
+url: "http://localhost:4000"
+blog_title: "The Cornerstone Caveman"  # tab title
+title: THE CORNERSTONE CAVEMAN
+full_name: "The Cornerstone Caveman"  # footer
+first_name: "Frank"  # on posts 
+last_name: ""  # on posts
+author_img_name_path: "/images/users/021012_avocado_courtesy_fc.jpg"
+disqus_shortname: "ccaveman"
+copyright_year: "2012"
 google_analytics_code: ""
-aboutme: "Something about the author here"
-twitter: "Ghosteyes1"
-github: "pasindud"
-facebook: "mepasindu"
-linkined_url: ""
+aboutme: "Food. Science. Simplicity."
+twitter: "TCCaveman"
+github: "frankchen07"
+facebook: "frankchen07"
+linkedin: "frankchen07"

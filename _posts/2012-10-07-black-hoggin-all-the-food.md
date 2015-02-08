@@ -1,0 +1,53 @@
+---
+layout: blog
+title: Black Hog
+category: blog
+tags: [food]  
+summary: Black hoggin' all the food.
+image: /images/blog/062912_black_hogg_3_courtesy_fc.jpg
+---
+
+[Black Hogg](http://www.yelp.com/biz/black-hogg-los-angeles).**
+
+**Feast.** Spicy Chicken Liver on Toast with Chicken Cracklin'. Popcorn Bacon, Maple Crema. Roast Brussel Sprouts, Anchovy Citronette, Gremolata. Pork Belly Tacos, Fuji Apple Slaw, Jalapeño Relish. Niman Ranch Heritage Pork Chop, Rice & Beans, Mojo.
+
+---
+
+Skipping a month...apparently I didn't go out that much in the month of June. That's nice, since I've been slowly falling behind. I finally finished writing about all the goodies I ate in Europe. Back to L.A. But trips to Chicago, Boston, San Diego are inbound. California, heads up! (or surfs up.)
+
+The spicy chicken liver was alright. The chicken skin cracklin' on it though, was an interesting touch. Popcorn bacon; I can't remember it very well, but I recall that it was fairly unique. Crispy, salty, and contrasted nicely with smooth maple crema. (They should consider making it an alcohol, like Bailey's or something. Bacon-infused liqueur). The pork belly tacos were refreshing, and the pork chop... was a pork chop. The brussel sprouts however, were OUT of this world. Overall, not bad. A satisfying night. I highly recommend going before they get their liquor license, otherwise it will be crowded beyond all reason.
+
+<figure>
+    <img src="/images/blog/062912_black_hogg_3_courtesy_fc.jpg"></img>
+    <figcaption>It's BAAAACON!/figcaption>
+</figure>
+
+<figure>
+    <img src="/images/blog/062912_black_hogg_4_courtesy_fc.jpg"></img>
+    <figcaption>Out of this world brussel sprouts. Yeah, we were floating while eating.</figcaption>
+</figure>
+
+I was thinking about the maple crema (hopefully it was made from real maple syrup), and for me, at least, maple syrup (the real stuff) is pretty addicting to me (kind of like butterscotch; this is another story in itself). I realized I didn't know jack of all about it, so...I did some research on how it's obtained. I share and paraphrase.
+
+*"Obtaining the raw material for maple syrup results of physiological processes that turn each tree into an osmotic pump. Steve Vogel ("Nature's Pumps" American Scientist 82, September-October 1994) describes the movement of ions across cell membranes allowing a concentration gradient to be maintained where, "a mere one-molar concentration difference generates over one million pascals, so an osmotic pump can easily work against quite a high resistance."*
+
+Extracting sap from trees is difficult work. Luckily, we have science on our side; namely...osmosis. A difference in concentration gradients is a natural dis-equilbrium that can generate flux. This flux can be used to overcome material resistance (and viscosity).
+
+*"As the daytime temperature begins to rise, starch accumulated during the previous summer and stored over the winter in the tree's zylem parenchyma is hydrolyzed by special "contact cells." Hydrolyzed starch products include the sugar, sucrose, which can reach concentrations of 3-5%. The osmotic pump is "primed" with the high concentration of sugars dissolved in the maple tree's large plumbing network of phloem. Water drawn into the trees by its root system provides the sugary sap that can travel at the rate of 1m/hr. The maple tree is "tapped" to capture the flow and provide the sap for maple syrup."*
+
+Daytime temperatures break down stored starch, which produces sucrose (presumably by cascade mechanisms that are activated by the presence of ATP, generated from light) . High concentrations of sugar are dissolved in the "plumbing network" of the trees. Water drawn in from the roots of the tree, tend to move towards those high sugar concentrated areas by osmosis. (Remember osmosis is the movement of water in order to equalize concentrations). We poke a hole in the tree, and use that flux of water (which brings sugar/sap/compounds) out, into our buckets.
+
+*"The sap obtained from the maple tree is a clear, colorless, sterile liquid providing the water and nutrients for the tree's buds. The North American Maple Syrup Producers Manual "Appendix 2: Chemistry and Quality" provides a chemical analysis of sap: 98+% sucrose, < 2.0% glucose, phenolic compounds, amines, peptides, amino acids, proteins, and organic acids. It takes about 40 gallons of sap to produce one gallon of maple syrup, which weighs about 11 pounds and has a 66.5% sugar content."*
+
+Nature has its inherent beauty in that plants can be self-sufficient. What the plant utilizes as nutrients, we can as well. Chemical analysis, (take some sap and stick it in a machine), dictates the composition of sap to be mostly sugar, with little starch, and some phenolic compounds and various proteins. Sap is the crude version of maple syrup. Lots of sap, makes less maple syrup. The final product is about 66.5% sucrose, which surprisingly does not impart a crazily over-sugarized taste. This is obtained by subsequent reverse osmosis (removes larger molecules and ions/impurities) and reduction (evaporation of water, to concentrate our delicious syrup).
+
+Blue molecules move across the barrier in order to equalize the concentration of blue to red and blue to green. Reverse osmosis utilizes a selective membrane, and puts positive pressure in the opposite direction of which the water naturally flows. The larger substances and impurities (shown in green) are not permitted across; this essentially purifies the sap and water (red and blue).
+
+<figure>
+    <img src="/images/blog/100412_reverse_osmosis_courtesy_fc.jpg"></img>
+    <figcaption>Reverse osmosis as a purification method.</figcaption>
+</figure>
+
+Beware of fake maple syrups made with corn syrup! Do some research and phone calls to make sure your product is genuine.
+
+That is all.
