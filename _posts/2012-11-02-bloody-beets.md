@@ -4,7 +4,7 @@ title: Bloody Beets
 category: blog
 tags: [food]  
 summary: Yes, beets are red. 
-image: /images/blog/081112_live_alive_2_courtesy_kelsey.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/081112_live_alive_2_courtesy_kelsey.jpg
 ---
 
 [Life Alive!](http://www.yelp.com/biz/life-alive-cambridge)
@@ -18,7 +18,7 @@ This was my first time going to a vegan-restaurant.
 This was a particularly interesting experience; I've never been in a vegan restaurant, and to be honest, the options (and the cafe) looked pretty colorful. It's hard to go wrong when they're using traditional fermentation techniques and the freshest, pulled-from the backyard greens and vegetables. I wouldn't be surprised if they _had _a backyard. Yeah, there's no meat, and not much caramelization, but fresh ingredients should be the basis of any meal, really. Anywho, I don't believe any of us (party of four) were vegan. Two members of the group (names have been omitted to protect the innocent) had previously gorged on all-you-can-eat meat the night before, and had gotten no sleep. I have been known to eat massive amounts of meat at Korean BBQ places back in L.A. So...I guess we were the farthest description of "vegan" that you could potentially get. We also probably left some serious carbon footprints in the restaurant. Sorry.
 
 <figure>
-    <img src="/images/blog/081112_live_alive_2_courtesy_kelsey.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/081112_live_alive_2_courtesy_kelsey.jpg"></img>
     <figcaption>Colors you see in this dish. Go.</figcaption>
 </figure>
 

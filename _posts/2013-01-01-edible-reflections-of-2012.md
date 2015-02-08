@@ -4,7 +4,7 @@ title: Edible Reflections of 2012.
 category: blog
 tags: [food]  
 summary: New year! Some reflections.
-image: /images/blog/082512_motorcyling_4_courtesy_shera.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/082512_motorcyling_4_courtesy_shera.jpg
 ---
 
 Musings of 2012.
@@ -30,7 +30,7 @@ I'm not going to create New Year's resolutions. I don't particularly like settin
 For those who have inspired me, helped plan the menu, dissed the presentation of my hors d'oeuvres, burned the *plat principal*, and enabled me to finish the perfect butterscotch creme brulee, you know who you are, and what that means to me.
 
 <figure>
-    <img src="/images/blog/082512_motorcyling_4_courtesy_shera.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/082512_motorcyling_4_courtesy_shera.jpg"></img>
     <figcaption></figcaption>
 </figure>
 

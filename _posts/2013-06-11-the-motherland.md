@@ -4,7 +4,7 @@ title: The Motherland!
 category: blog
 tags: [food]  
 summary: Xī Méng Dīng, night markets, and street food. 
-image: /images/blog/022213_fried_yam_xi_meng_ding_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022213_fried_yam_xi_meng_ding_courtesy_fc.jpg
 ---
 
 **Xī Méng Dīng District (西門町). Chillin' with Rock. (Names have been altered to protect the innocent).**
@@ -30,7 +30,7 @@ I came packed with a veritable amount of snacks, which was basically a buttload 
 My first excursion in Taipei was in the Xī Méng Dīng District, which basically is one of the larger shopping districts in Taipei. It certainly wasn't an official night market, but it did possess night market-esqe qualities (shops and stands lined up, fried foods, Taiwanese people yelling at you to buy their goods). All in all, it's a bit scattered, but more "official" than an open-market. There are store fronts, legitimate closing times, business practices, and brand-name items. Part of me was somewhat ashamed to not be at all familiar with Taipei in general, as I mostly relied on Rock to re-introduce me to some of the standard sights and tastes of the motherland. I was only nine years old the last time I came; I was not a food enthusiast, and my working memory (at least for foods) was rather low, compared to the ample neuronal capacity for fake [Huáng Fēi Hóng](http://en.wikipedia.org/wiki/Huang_Fei_Hong) martial arts moves and pretending I was a ninja.
 
 <figure>
-    <img src="/images/blog/022213_ninja_frank_courtesy_clc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022213_ninja_frank_courtesy_clc.jpg"></img>
     <figcaption>Like a boss.</figcaption>
 </figure>
 
@@ -39,28 +39,28 @@ Nevertheless, the **smells** were the primary factor in waking up my senses.
 The Ay-Chung flour-rice noodles reminded me of porridge, except in noodle form, plus oysters. It was a bit trippy, since I recalled the smell, but certainly had no visual recollection of eating such a thing. The noodles had no sign of being in a phase of [retrogradation](), so the thickness of the soup may have been the result of some sort of starch powder, created that way to give a certain mouth feel that not only avoided excessive liquid, but allowed the flavor of the porridge to adhere to the noodles. A mix of rice and flour conferred a noodle with bite, but with the softness of on-the-border-overcooked rice, which gave the noodles an easy, palatable quality. This may modify cooking times to *al dente* perfection, but flour rice noodles naturally have a bit more give than traditional Italian pasta. Great food for when you're sick.
 
 <figure>
-    <img src="/images/blog/022213_ay-chung_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022213_ay-chung_1_courtesy_fc.jpg"></img>
     <figcaption>Flimsy spoon included.</figcaption>
 </figure>
 
 Fried oyster egg pancake was past-time favorite. Oysters, a form of starch powder, egg, and a sort of spinach-type vegetable (sometimes) is blended into an omelette, and topped with a savory sauce (which I believe had a hint of tomato?). Hard to tell. Potato starch is traditionally added to give more body to the omelette itself. It also has the effect of giving it a somewhat softer texture. I've always wondered if the starch ended up retaining moisture for the oysters so the final end product wouldn't be a rubbery omelet with rock-hard oysters. The starch may serve as a method of heat dispersal so that the whole she-bang doesn't overcook.
 
 <figure>
-    <img src="/images/blog/022213_fried_oyster_egg_pancake_shilin_night_market_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022213_fried_oyster_egg_pancake_shilin_night_market_courtesy_fc.jpg"></img>
     <figcaption>A fashionable hat.</figcaption>
 </figure>
 
 Walking down the middle of Xī Méng Dīng gave us the best view of small eats. Stinky tofu on the right, braised pork shanks and ears on the left, and smack dab in the center...fried yams. Rock and I had been searching for these for quite some time, and we already had quite a bit eat...but how could we not? A bagful of potentially super clogged arteries for cents on the dollar. I burned my tongue upon biting into this fried creation- it was then I remembered that starch cooked at high temperatures usually breaks down to di- and mono-saccharides, which allows lower viscosity and subsequently...burning yam goo. But it was GOOD. I wonder what would happen if they cooked them, blast chilled them down to cold starch and added powdered sugar. Dessert, perhaps?
 
 <figure>
-    <img src="/images/blog/022213_fried_yam_xi_meng_ding_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022213_fried_yam_xi_meng_ding_courtesy_fc.jpg"></img>
     <figcaption>Aw, dented on the right side.</figcaption>
 </figure>
 
 Quail eggs on a stick was nothing new. The lady cooking them made me do a triple take; she had some home-made mini cupcake heating element that was perfect for cracking quail eggs in. I'm guessing a quick trip to buy some skewers and an hour or so of making homemade hot sauce makes the profits stack up like hotcakes.
 
 <figure>
-    <img src="/images/blog/022213_qegg_stick_xi_meng_ding_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022213_qegg_stick_xi_meng_ding_courtesy_fc.jpg"></img>
     <figcaption>Pew pew! Reload.</figcaption>
 </figure>
 

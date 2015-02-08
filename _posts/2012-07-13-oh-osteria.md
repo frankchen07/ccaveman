@@ -4,7 +4,7 @@ title: Oh! Osteria.
 category: blog
 tags: [food]  
 summary: Food in Italy.
-image: /images/blog/052012_lantico_noe_3_courtesy_jc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052012_lantico_noe_3_courtesy_jc.jpg
 ---
 
 [L'Antico Noe](http://www.yelp.com/biz/l-antico-no%C3%A8-firenze-2).
@@ -16,7 +16,7 @@ image: /images/blog/052012_lantico_noe_3_courtesy_jc.jpg
 ---
 
 <figure>
-    <img src="/images/blog/052012_lantico_noe_3_courtesy_jc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052012_lantico_noe_3_courtesy_jc.jpg"></img>
     <figcaption>Amazing.</figcaption>
 </figure>x
 
@@ -39,7 +39,7 @@ I ended up describing what was the most essential way to reduce a liquid, which 
 Next time you decide to make a vinaigrette, or some sort of sauce, think about the texture, palatability, and ease of ingestion. Nobody like runny sauces or sauces that solidify after the food cools down. Delicate balance, boys and girls.
 
 <figure>
-    <img src="/images/blog/052012_lantico_noe_1_courtesy_jc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052012_lantico_noe_1_courtesy_jc.jpg"></img>
     <figcaption>Can't believe I don't have a picture of the balsamic reduction. Ugh. Oh well. Fettucelle with pancetta.</figcaption>
 </figure>
 

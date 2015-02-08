@@ -4,7 +4,7 @@ title: The Purple Pig Followup
 category: blog
 tags: [food]  
 summary: In response to comments.
-image: /images/blog/021313_meat_tightness_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/021313_meat_tightness_courtesy_fc.jpg
 ---
 
 [The Purple Pig](http://www.yelp.com/search?find_desc=The+Purple+Pig&find_loc=Chicago&ns=1).
@@ -22,7 +22,7 @@ Ideally, it would be correct that marination after cooking would not be effectiv
 Would post-marination do anything though? J. Kenji Lopez-Alt of Serious Eats has written [a piece](http://www.seriouseats.com/2009/12/how-to-have-juicy-meats-steaks-the-food-lab-the-importance-of-resting-grilling.html) about how resting meat works, and I believe we can apply his findings here. If we put a piece of cooked meat into a marinade, it wouldn't be too far to suggest that relaxation of the muscle fibers as the temperature decreases would not only redistribute the inherent meat juices, but would also absorb some surface moisture (marination). Of course, the marinade should not be too drastic in temperature (not too hot and not too cold), and definitely should **not be** the pre-cooking marinade. There would be a sanitation issue with such a practice.
 
 <figure>
-    <img src="/images/blog/021313_meat_tightness_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/021313_meat_tightness_courtesy_fc.jpg"></img>
     <figcaption>Hypothetical rearrangement and uptake of meat fluid based on temperature.</figcaption>
 </figure>
 

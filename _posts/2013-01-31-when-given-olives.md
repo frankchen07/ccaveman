@@ -4,7 +4,7 @@ title: When Given Olives...
 category: blog
 tags: [food]  
 summary: The Cottage in San Diego.
-image: /images/blog/083112_the_cottage_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/083112_the_cottage_courtesy_fc.jpg
 ---
 
 [The Cottage](http://www.yelp.com/biz/the-cottage-la-jolla).
@@ -16,7 +16,7 @@ image: /images/blog/083112_the_cottage_courtesy_fc.jpg
 I was down in San Diego for my sister's white coat ceremony, so before I headed down to the ceremony, I had to get brunch. I ended up yelping a quaint little place called "The Cottage," which was known for its super fancy yet delicious brunch options. I opted out of the usual omelet, and instead, went for the lunch special, which was a simple seafood dish with spinach and rice. Pretty darn simple, but done right. The sear on the scallops was legendary, the spinach and rice were perfectly seasoned, and a drizzle of peppery olive oil provided the backdrop to the whole shebang. Good stuff.
 
 <figure>
-    <img src="/images/blog/083112_the_cottage_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/083112_the_cottage_courtesy_fc.jpg"></img>
     <figcaption>Scallopin' like a boss.</figcaption>
 </figure>
 

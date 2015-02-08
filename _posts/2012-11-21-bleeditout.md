@@ -4,7 +4,7 @@ title: Bleed it Out
 category: blog
 tags: [food]  
 summary: Ike Jime and whacking fish.
-image: /images/blog/111612_fish_collar_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/111612_fish_collar_courtesy_fc.jpg
 ---
 
 [Yanagi](http://www.yelp.com/biz/yanagi-japanese-bistro-redondo-beach).
@@ -16,14 +16,14 @@ image: /images/blog/111612_fish_collar_courtesy_fc.jpg
 I've eaten Hamachi Kama a bunch in my culinary adventures, but never exactly knew where the cut came from on the body of the fish.
 
 <figure>
-    <img src="/images/blog/081712_yanagi_3_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/081712_yanagi_3_courtesy_fc.jpg"></img>
     <figcaption>Some funky lighting. Frisee-looking salad with Hamachi Kama.</figcaption>
 </figure>
 
 So, a little bit of research, some ghetto pictures of people cutting carp, and some rudimentary "cut-here" photos later, this is what I basically came up with.
 
 <figure>
-    <img src="/images/blog/111612_fish_collar_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/111612_fish_collar_courtesy_fc.jpg"></img>
     <figcaption>Cut along the dotted line.</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ However, what are the effects of *ike jime* on cooked fish? Does the humane slau
 Some scientific articles detail the production of high quality fish muscle as a careful process of reducing "pre-harvest" exercise. The less the fish moves, the better it is for the fish. Basically, rested muscles taste better than exhausted muscles. The benefits of *ike jime* come from complete destruction of the brain, which not only inhibits the fish from moving and further exhausting the muscles, but also delays the *rigor mortis* process (the irreversible hardening of flesh, due to the lack of ATP. I write about this [here](http://thecornerstonecaveman.com/?p=469)). Less *rigor mortis* from the start means the muscle proteins are less contracted and looser to begin with. Cooking meat that is less contracted usually confers more tender flesh. (Unless you severely overcook it, which has been known to happen in my household/by my hands).
 
 <figure>
-    <img src="/images/blog/081712_yanagi_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/081712_yanagi_2_courtesy_fc.jpg"></img>
     <figcaption>Donor Sushi. Fish equivalent of a sperm bank.</figcaption>
 </figure>
 

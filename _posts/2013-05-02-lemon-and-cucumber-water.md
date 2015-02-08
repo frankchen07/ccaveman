@@ -4,7 +4,7 @@ title: Lemon and Cucumber Water
 category: blog
 tags: [food]  
 summary: Don't drink the water! 
-image: /images/blog/050113_strawberry_monster_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/050113_strawberry_monster_courtesy_fc.jpg
 ---
 
 [Urth Caffe](http://www.yelp.com/biz/urth-caffe-beverly-hills-3).
@@ -24,7 +24,7 @@ If we move into the realm of marketing, adding fruit (and ice) allows a pitcher 
 There are absolutely no controlled scientific studies involving lemon and cucumber water; in all honestly, it probably would receive no funding. There's plenty of hypothetical claims of how lucumber (my word for lemon and cucumber) water "detoxifies the body," or "cleanses the liver," but I call bullshit, as the liver isn't simply "cleansed" by the ingestion of one or several compounds (fasting confounds the variable here). Our metabolisms have their own built in methods for cleansing and detoxification. There are things we can do; eat well (according to our evolutionary milieu), avoid pathogens (salmonella), and minimize exposure to exogenous nasties (caustic fumes, radiation, and estrogenic compounds found in cheap plastics), but copious amounts of lucumber water isn't going to have a significant effect. Drink your water, add lemon or cucumber if you want, but there isn't any sort of magic behind it; the vitamins and minerals that one supposedly obtains from the minute amount of fruit that we put in is not, in my opinion, significant. It's really just a matter of taste.
 
 <figure>
-    <img src="/images/blog/050113_lemon_cucumber_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/050113_lemon_cucumber_courtesy_fc.jpg"></img>
     <figcaption>THE liver cleansing duo.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ That being said, this [piece of news](http://abcnews.go.com/GMA/Consumer/story?i
 All of this "healthy" discussion eventually led us to discuss the presence of rotten strawberries in Yogurtland's free water dispenser. In actuality, the water chamber itself looks very clean, seeing as the water runs down the sides like those constantly churning lemonade machines, until you find out that the fun-spray apparatus is simply there to distract you from the rotten fruit floating in the middle. (Your experience may vary). Therefore, even if you didn't learn any definitive science in this post, the one thing people should do is to go to Yogurtland for the yogurt, not the "fruit" water.
 
 <figure>
-    <img src="/images/blog/050113_strawberry_monster_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/050113_strawberry_monster_courtesy_fc.jpg"></img>
     <figcaption>My friend SWEARS this is what happened.</figcaption>
 </figure>
 

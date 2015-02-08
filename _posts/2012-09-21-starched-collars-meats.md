@@ -4,7 +4,7 @@ title: Starching it up
 category: blog
 tags: [food]  
 summary: Starched collars, starched meats
-image: /images/blog/092012_pineapple_kiwi_fig_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/092012_pineapple_kiwi_fig_courtesy_fc.jpg
 ---
 
 [Kim Yang Asian Cuisine](http://www.yelp.com/biz/kim-yang-paris).
@@ -24,7 +24,7 @@ I hadn't noticed it until now, but Asian-inspired dishes always seemed to be a b
 **Cornstarch (Velveting technique).** I researched a couple of hours (exaggeration: couple of minutes), and didn't find much of anything on the mechanism of cornstarch on meat. Cornstarch is mostly amylose, but I couldn't conjure a mechanism of how a polysaccharide could go off and demolish proteins (enzyme-style), or somehow keep the juices in. (Jury is still out on that one...but it is the most likely scenario, even though it is specious). We can definitively rule out enzymatic action. Starch does not possess any kind of enzymatic activity whatsoever, and to my knowledge, starch is not a viable (or common) activator substrate for other enzymes. Moving on. My best guess, if I were to assume that the cornstarch actually did something, would be that starch somehow prevents the moisture within the meat itself from leaving.
 
 <figure>
-    <img src="/images/blog/092012_cornstarch_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/092012_cornstarch_courtesy_fc.jpg"></img>
     <figcaption>A sad representation of cornstarch.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ Crash course in understanding the grain. Picture below. Click to increase the si
 Brown lines = protein fibers/meat. The grain runs this way. Red lines = bonds between protein fibers. Notice when cutting against the grain, each brown line can be "pulled apart" more easily (less red bonds holding then together. Thus, against the grain cuts will tend to fall apart nicely.
 
 <figure>
-    <img src="/images/blog/092012_grain_cuts_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/092012_grain_cuts_courtesy_fc.jpg"></img>
     <figcaption>Choppa time.</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Brown lines = protein fibers/meat. The grain runs this way. Red lines = bonds b
 To be honest, I didn't find any substantial proof of the mechanism of egg whites on meat, just lots of anecdotes. I may have to come back this topic. For the time being, it apparently works, as many chinese restaurants and recipes online have been saved. Granted they're not controlled experiments...but since when is anything? We don't live in bubbles.
 
 <figure>
-    <img src="/images/blog/092012_egg_white_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/092012_egg_white_courtesy_fc.jpg"></img>
     <figcaption>I'd rather eat this than use it for tenderizing.</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ To be honest, I didn't find any substantial proof of the mechanism of egg whites
 In meat, excessively alkaline and high-sodium conditions are harsh, and may contribute to the surface denaturation of proteins, which technically acts as a "tenderizer." This certainly is a viable mechanism.
 
 <figure>
-    <img src="/images/blog/092012_sodium_bicarbonate_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/092012_sodium_bicarbonate_courtesy_fc.jpg"></img>
     <figcaption>Sodium Bicarbonate.</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ In meat, excessively alkaline and high-sodium conditions are harsh, and may cont
 Basically, fruits contain natural enzymes that happen to digest certain proteins, and can be used in a tenderizer. Protein -> Enzymatic action -> Digested protein (easier for your jaw). End of story (maybe...this entire post is a complex topic which may need further exploration).
 
 <figure>
-    <img src="/images/blog/092012_pineapple_kiwi_fig_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/092012_pineapple_kiwi_fig_courtesy_fc.jpg"></img>
     <figcaption>Some eye candy.</figcaption>
 </figure>
 

@@ -4,7 +4,7 @@ title: Chelsea Market
 category: blog
 tags: [food]  
 summary: Chelsea Thai
-image: /images/blog/031713_chelsea_thai_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031713_chelsea_thai_courtesy_fc.jpg
 ---
 
 **Chelsea Market. Chelsea Thai.**
@@ -18,7 +18,7 @@ Food hopping alone is highly difficult in New York. The key to doing it (or not 
 Luckily for me, the entree portion at Chelsea Thai wasn't too large (at least at first glance). The glass-noodle shrimp salad was perhaps one of the better shrimp salads I've had. The shrimp were plump, the flavors were crisp, and there was a spicy kick somewhere in there. The balance of the fish sauce was equally excellent and wasn't watery at all. I recall that most people don't particularly like Thai dishes because they sometimes have a strong fish smell, or a sour, vinegar-like taste. The former taste comes from fish sauce itself, and the latter,  from some form of tamarind.
 
 <figure>
-    <img src="/images/blog/031713_chelsea_thai_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031713_chelsea_thai_courtesy_fc.jpg"></img>
     <figcaption>It's okay to stare.</figcaption>
 </figure>
 

@@ -4,7 +4,7 @@ title: Big Gay Ice Cream
 category: blog
 tags: [food]  
 summary: I missed the truck in LA, so I went to NY. 
-image: /images/blog/031613_big_gay_ice_cream_shop_2_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031613_big_gay_ice_cream_shop_2_courtesy_fc.jpg
 ---
 
 **Big Gay Ice Cream Shop.**
@@ -18,14 +18,14 @@ I heard about this place through my friend, who said that the truck made its way
 The entire notion sounded a little out of the box, however the title of the establishment itself deserved a thorough visit. Luckily, there was the original brick and mortar in New York City (where I currently was). A friend of mine was attending medical school in New York, so I dragged him along; he was appalled that I even wanted to eat continue eating after three dinners.
 
 <figure>
-    <img src="/images/blog/031613_big_gay_ice_cream_shop_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031613_big_gay_ice_cream_shop_2_courtesy_fc.jpg"></img>
     <figcaption>Fitting colors.</figcaption>
 </figure>
 
 I wanted to see what the hype was all about, since it had been quite some time that this "ice cream truck" business was hanging above my head. The "salty pimp" was salted caramel ice cream with a chocolate shell inside a waffle cone, served up big-as-your-fist style with a fork, which immediately conveyed the fact that it was probably going to be messy. There were supposed to be swirls of sea-salt caramel in the ice cream but I didn't taste it at all. My first bite of the "ice cream" made me think soft serve, which was odd, since it was marketed as an ice cream. The soft serve (I think) was nothing special and the chocolate wasn't terribly unique either. Even the salted caramel was sort of missing (the part that I was most excited for). The cone wasn't very appetizing either. I'm not quite sure why I still ate it. (I guess there's always room for dessert).
 
 <figure>
-    <img src="/images/blog/031613_big_gay_ice_cream_shop_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031613_big_gay_ice_cream_shop_1_courtesy_fc.jpg"></img>
     <figcaption>Bigger than I thought...</figcaption>
 </figure>
 

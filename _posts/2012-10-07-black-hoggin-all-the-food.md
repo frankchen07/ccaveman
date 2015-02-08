@@ -4,7 +4,7 @@ title: Black Hog
 category: blog
 tags: [food]  
 summary: Black hoggin' all the food.
-image: /images/blog/062912_black_hogg_3_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/062912_black_hogg_3_courtesy_fc.jpg
 ---
 
 [Black Hogg](http://www.yelp.com/biz/black-hogg-los-angeles).**
@@ -18,12 +18,12 @@ Skipping a month...apparently I didn't go out that much in the month of June. Th
 The spicy chicken liver was alright. The chicken skin cracklin' on it though, was an interesting touch. Popcorn bacon; I can't remember it very well, but I recall that it was fairly unique. Crispy, salty, and contrasted nicely with smooth maple crema. (They should consider making it an alcohol, like Bailey's or something. Bacon-infused liqueur). The pork belly tacos were refreshing, and the pork chop... was a pork chop. The brussel sprouts however, were OUT of this world. Overall, not bad. A satisfying night. I highly recommend going before they get their liquor license, otherwise it will be crowded beyond all reason.
 
 <figure>
-    <img src="/images/blog/062912_black_hogg_3_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/062912_black_hogg_3_courtesy_fc.jpg"></img>
     <figcaption>It's BAAAACON!/figcaption>
 </figure>
 
 <figure>
-    <img src="/images/blog/062912_black_hogg_4_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/062912_black_hogg_4_courtesy_fc.jpg"></img>
     <figcaption>Out of this world brussel sprouts. Yeah, we were floating while eating.</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Nature has its inherent beauty in that plants can be self-sufficient. What the p
 Blue molecules move across the barrier in order to equalize the concentration of blue to red and blue to green. Reverse osmosis utilizes a selective membrane, and puts positive pressure in the opposite direction of which the water naturally flows. The larger substances and impurities (shown in green) are not permitted across; this essentially purifies the sap and water (red and blue).
 
 <figure>
-    <img src="/images/blog/100412_reverse_osmosis_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/100412_reverse_osmosis_courtesy_fc.jpg"></img>
     <figcaption>Reverse osmosis as a purification method.</figcaption>
 </figure>
 

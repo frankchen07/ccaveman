@@ -4,7 +4,7 @@ title: Vecchia Roma
 category: blog
 tags: [food]  
 summary: Pasta pasta pasta.
-image: /images/blog/052212_vecchia_roma_2_courtesy_jc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052212_vecchia_roma_2_courtesy_jc.jpg
 ---
 
 Vecchia Roma](http://www.tripadvisor.com/Restaurant_Review-g187791-d1584357-Reviews-Trattoria_Vecchia_Roma-Rome_Lazio.html).
@@ -18,7 +18,7 @@ Vecchia Roma](http://www.tripadvisor.com/Restaurant_Review-g187791-d1584357-Revi
 Apparently this hole in the wall had some amazing bucatini all'amatriciana, which traditionally is an Italian pasta suace made from guanciale (dried pork cheek), tomato, and pecorino cheese. According to reviews of the restaurant, they would make the pasta inside a gouged wheel of pecorino, and then serve it to you, piping hot, from the block of cheese. I was excited. Hooked. It's not common that you're served from a flavored bowl, much less cheese. The only time the container is able to impart flavor or actually be a part of your culinary experience is something like clam chowder in a bowl, or if your utensils and plates are biodegradable and made from plant starches. Delicious.
 
 <figure>
-    <img src="/images/blog/052212_vecchia_roma_4_courtesy_jc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052212_vecchia_roma_4_courtesy_jc.jpg"></img>
     <figcaption>No neon signs here.</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Looking at the pasta, it make me think about the difference in flavor profile wh
 Pasta, in no doubt is somewhat of a miracle in itself. There's rumors and myths and all sorts of odd suggestions when cooking pasta. Salt the water, add oil to the water, don't do anything with the water, boil, simmer, the possibilities are endless. Regardless of the cooking method, it is paramount that the end product be _al dente_, soft enough to be cooked, but hard enough that it retains a texture, a nice chomping bite, so you're not just eating starchy pudding. Shall we investigate some pasta?
 
 <figure>
-    <img src="/images/blog/052212_vecchia_roma_2_courtesy_jc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052212_vecchia_roma_2_courtesy_jc.jpg"></img>
     <figcaption>Load Up.</figcaption>
 </figure>
 

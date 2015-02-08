@@ -4,7 +4,7 @@ title: A Taiwanese Breakfast
 category: blog
 tags: [food]  
 summary: Egg on my face. 
-image: /images/blog/022313_traditional_taiwanese_breakfast_4_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022313_traditional_taiwanese_breakfast_4_courtesy_fc.jpg
 ---
 
 **Traditional Taiwanese breakfast, Zhī Shān district (芝山區) near Rock's grandparent's place.**
@@ -20,7 +20,7 @@ So the day started like this. I woke up, meandering around my grandmother's apar
 I/he agreed (for me) to meet him at his place, since there was a time-old location just a stone's throw away from his grandparent's place that served all the breakfast goodies under one roof. I was happy to oblige. However, the thing about the Taiwanese MRT (subway) is that the straight line distance between our respective apartments was smack dab in the middle of an MRT dead-zone. This is labeled with much frustration in the map below. Thus, what would have been a quick 15 minute train ride evolved into a 40 minute horror-fest spanning three color transfers and a not so short walk up and down a couple hundred steps to get to his place. But no, I'm not complaining.
 
 <figure>
-    <img src="/images/blog/062513_taiwanese_mrt_courtesy_wikipedia.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/062513_taiwanese_mrt_courtesy_wikipedia.jpg"></img>
     <figcaption>C'mon guys. Couple miles.</figcaption>
 </figure>
 
@@ -29,42 +29,42 @@ As much as my feet protested, my stomach eventually had the executive decision, 
 **The turnip/daikon cake** is a Chinese classic that's made by grating daikon or turnip, adding rice flour and/or cornstarch into a block that is steamed and then pan-fried before serving. The end-product is usually soft and springy, and packs a nice savory flavor. Additional ingredients for savory notes can also be added to enhance the cake, but usually the original flavor is sufficient. Rice flour usually gets the binding job done nicely, since when steamed, it causes the gelatinization of starch, which gives it an almost jello-like consistency. When warm and topped off with some thick soy sauce, you *can't* just have one.
 
 <figure>
-    <img src="/images/blog/022313_traditional_taiwanese_breakfast_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022313_traditional_taiwanese_breakfast_1_courtesy_fc.jpg"></img>
     <figcaption>Building bricks.</figcaption>
 </figure>
 
 **Egg crepe.** This basically is what it sounds like. Egg wrapped in a crepe like pocket, sometimes with scallions, sometimes without. Chinese version of a super-simple breakfast burrito. It's rather simple.
 
 <figure>
-    <img src="/images/blog/022313_traditional_taiwanese_breakfast_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022313_traditional_taiwanese_breakfast_2_courtesy_fc.jpg"></img>
     <figcaption>Crepe on a drink lid.</figcaption>
 </figure>
 
 **Crullers.** These are basically deep-fried lengths of dough that can be eaten alone with soy sauce, wrapped in the breakfast rice roll, or dipped in soymilk. Since the dough is relatively unflavored and presented individually in such a small volume, the cruller takes well to dipping in other heavily flavored things. If not dipped, they provide a satisfactory crunch and a source of fat to liven up other bland foods.
 
 <figure>
-    <img src="/images/blog/022313_traditional_taiwanese_breakfast_4_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022313_traditional_taiwanese_breakfast_4_courtesy_fc.jpg"></img>
     <figcaption>Creepy fried fingers.</figcaption>
 </figure>
 
 **Shāo bĭng,** is a layered, flaky, slightly savory bread baked with sesame seeds and served piping hot. To me it's a bit bland, (unless it's the thick kind with a massive amount of sesame seeds) but I think some of the charm of this breakfast item comes from the fact that its crispy, flaky, and slightly neutral. For those who don't like heavy flavors for breakfast, this is your gig.
 
 <figure>
-    <img src="/images/blog/022313_traditional_taiwanese_breakfast_5_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022313_traditional_taiwanese_breakfast_5_courtesy_fc.jpg"></img>
     <figcaption>The neutral zone.</figcaption>
 </figure>
 
 **Leek box.** This literal Chinese-English translation was pretty hilarious. Technically it's just a large dumpling/potsticker that's cooked by a combination of browning and steaming. The inside usually contains finely chopped leek, mushrooms, bits of mung bean noodle, and sometimes, but rarely, some form of meat. Some oil is added to a pan, and the bottom/top is browned first, some water is thrown in and the contraption is lidded until piping hot. The lid is removed, the water is evaporated, the leek box is browned a bit more, and then served.
 
 <figure>
-    <img src="/images/blog/022313_traditional_taiwanese_breakfast_6_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022313_traditional_taiwanese_breakfast_6_courtesy_fc.jpg"></img>
     <figcaption>Box? More like a pocket.</figcaption>
 </figure>
 
 **Breakfast rice roll.** Exactly as is described. Pickled cabbage, dried shredded meat wool, and crullers tightly packed in glutinous sticky rice. The whole concoction is wrapped in plastic and eaten like a burrito. The respective flavor profile is actually well-constructed. The shredded meat provides a large amount of body once your saliva hits it, and it doesn't require much physical processing. Once your saliva hits the "meat wool" (that's kind of what it is), it turns much more dense. This is combined with pickled cabbage for some acid, and a cruller for some fatty crunch. Rolled up in glutinous rice, and the whole thing is a wrap.
 
 <figure>
-    <img src="/images/blog/022313_traditional_taiwanese_breakfast_3_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022313_traditional_taiwanese_breakfast_3_courtesy_fc.jpg"></img>
     <figcaption>Taiwanurrito.</figcaption>
 </figure>
 

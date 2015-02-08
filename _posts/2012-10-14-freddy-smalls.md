@@ -4,7 +4,7 @@ title: Freddy Small's Bar and Kitchen
 category: blog
 tags: [food]  
 summary: Hometown gastropub American food. 
-image: /images/blog/072012_freddys_5_courtesy_fc_jw.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/072012_freddys_5_courtesy_fc_jw.jpg
 ---
 
 [Freddy Small's Bar and Kitchen](http://www.yelp.com/biz/freddy-smalls-bar-and-kitchen-los-angeles).
@@ -14,19 +14,19 @@ image: /images/blog/072012_freddys_5_courtesy_fc_jw.jpg
 ---
 
 <figure>
-    <img src="/images/blog/072012_freddys_4_courtesy_fc_jw.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/072012_freddys_4_courtesy_fc_jw.jpg"></img>
     <figcaption>Corned beef cowarding under Yorkshire pudding.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/blog/072012_freddys_5_courtesy_fc_jw.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/072012_freddys_5_courtesy_fc_jw.jpg"></img>
     <figcaption>Inconspicuous pickles. Trying to hide. Nice try. First I'll eat your friend Yorkshire, and then you're up.</figcaption>
 </figure>
 
 I had the eerie sense after eating at Freddy Small's that my judgement of the food was drastically altered by the presence of a pre-dinner cocktail. Being a lightweight, it didn't take much for me to feel the intoxicating effects of an egg-white-sour-whisky something. Before dinner had even started, I fell victim to a swirly hurricane within my own head. Sad I know, but true. Now that we've gotten my particular mental state out of the way for this restaurant (impaired), it's up to you (the reader) to trust my judgement. Or not.
 
 <figure>
-    <img src="/images/blog/072012_freddys_1_courtesy_fc_jw.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/072012_freddys_1_courtesy_fc_jw.jpg"></img>
     <figcaption>More glistening. Is that my drool or...</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ I was most curious about the brussel sprouts at this place, as I have tried my b
 I did not find any current research suggesting that completely obliterated olive-green vegetables absorbed sauce or vinaigrette at any sort of accelerated rate. If we break down the composition of a vegetable, it essentially boils down to (pun intended) to a bunch of enclosed cell walls that are fairly firm, but at the same time, flexible. Depending on the turgidity of the cell wall, a vegetable is placed on a spectrum of limp or firm. Turgidity of the cell wall basically means, "it's filled with water/fluid, to the point of alllmost breaking." (Think a really full water mattress). Cells that are not turgid (half-full air mattress) are less "tight" and don't hold their shape well. When something doesn't hold its shape well...it's limp.
 
 <figure>
-    <img src="/images/blog/101312_turgidity_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/101312_turgidity_courtesy_fc.jpg"></img>
     <figcaption>Turgid to...not.</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ Back to limped vegetables. Because I didn't find any current research suggesting
 I came up with texture and increased flexibility. Lack of resistance by leakage of pectin and other structural factors make it so that the vegetables easily break down, almost like baby food. This is perhaps reminiscent of comfort foods. (Potatoes, dense cakes, etc). The last factor, its ability to pick up more sauce, is simply increased malleability, so it can conform to the curves and flats of a bowl or plate. Visual clarification is below.
 
 <figure>
-    <img src="/images/blog/101312_physicality_of_vegetables_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/101312_physicality_of_vegetables_courtesy_fc.jpg"></img>
     <figcaption>Bird's eye view of plate-vegetable contact points. Side view is self explanatory. Reference: Frank. Acknowledgements: Humor.</figcaption>
 </figure>
 

@@ -4,7 +4,7 @@ title: Well, that's Balls.
 category: blog
 tags: [food]  
 summary: Popping gel balls.
-image: /images/blog/082312_rustic_canyon_2_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/082312_rustic_canyon_2_courtesy_fc.jpg
 ---
 
 [Rustic Canyon](http://www.yelp.com/biz/rustic-canyon-santa-monica).
@@ -16,14 +16,14 @@ image: /images/blog/082312_rustic_canyon_2_courtesy_fc.jpg
 Hands down, the most interesting aspect of Rustic Canyon was the mysterious berries. They were softer than pomegranate seeds, smaller than blueberries, but had the zing and color of a mini-maraschino cherry. The dish was, in my eyes, "natural," implementing clever use of contrasting textures and colors without the use of modern gastronomy techniques. All real food on real plates in a real restaurant. Crispy, tender meat, popping gaps of sweetness, and smooth, buttery mash. Pretty solid food KO.
 
 <figure>
-    <img src="/images/blog/.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/.jpg"></img>
     <figcaption>Merry Christmas, it said.</figcaption>
 </figure>
 
 The explosive surprise of the wonderful beads of fruit reminded me of an Iron Chef episode that unveiled the formation of a "ball of vinaigrette" through the use of sodium alginate. Texture and contrast are two important factors in the enjoyment of a proper meal, so the successful implementation of such a technique can certainly bring life to a dish. In terms of texture, it would be interesting to find a contrasting pocket of flavor that explodes in your mouth. If we imagine a normal salad with a regular vinaigrette, we naturally picture a dispersed vinaigrette delicately clinging onto the leaves. What happens if, instead, there were gelatinized balls of vinaigrette interspersed throughout the delicate leaves; how would the ultimate experience change with mini-edible "sauce" packets strewn about? (the NEXT big thing?). Would the classification of the meal still be a salad?
 
 <figure>
-    <img src="/images/blog/082312_rustic_canyon_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/082312_rustic_canyon_1_courtesy_fc.jpg"></img>
     <figcaption>A crudo application trying so hard to pass as a salad.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Alginate is a polymer that is extracted from seaweed, and is made of two types o
 The creation of caviar-spheres is below, courtesy of Cuisine Innovation France.
 
 <figure>
-    <img src="/images/blog/121812_sodium_alginate_courtesy_ci_france_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/121812_sodium_alginate_courtesy_ci_france_fc.jpg"></img>
     <figcaption>An excellent portrayal of spherification.</figcaption>
 </figure>
 

@@ -4,7 +4,7 @@ title: Curious Case of Bubbles
 category: blog
 tags: [food]  
 summary: Ethiopian food adventures.
-image: /images/blog/021413_merkato_2_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/021413_merkato_2_courtesy_fc.jpg
 ---
 
 [Merkato Marketplace](http://www.yelp.com/biz/merkato-ethiopian-restaurant-and-market-los-angeles).
@@ -18,14 +18,14 @@ Merkato Marketplace is in the heart of Little Ethiopia, a small quaint area, two
 It was only after I had sat down that I realized that the restaurant and the market were under one roof, and the result was a separate dining area, away from the hustle and bustle of the market, which upon perusal, offered fresh spices, Ethiopian goods, and sweets. In some sense, it's relaxing to know that the reviews of the market usually correspond well to the quality of the restaurant food; they essentially cook what they sell. Selling spices and Ethiopian goods after obtaining them wholesale in Los Angeles- pretty damn awesome; cooking them up into something delicious and selling a one of a kind culinary experience? Even better. The profit margins on that kind of turnaround shouldn't be terrible.
 
 <figure>
-    <img src="/images/blog/021413_merkato_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/021413_merkato_1_courtesy_fc.jpg"></img>
     <figcaption>Entering.</figcaption>
 </figure>
 
 My friend and I both selected Awaze tibbs, and as per my request, some gluten-free injera, which apparently turns out to be the more traditional way of preparing it. The sourdough teff bread came out the color of café, and was spongy soft. The texture could easily be modified through the flour combinations used for the injera batter (teff, wheat, barley, millet). Teff has its own unique taste, a slight hint of nuttiness and a bit of sourness from the fermentation. It was fairly porous, so grabbing the beef tibbs with it was somewhat a challenge. I was tempted to request a spoon, but that wouldn't be the proper way to eat Ethiopian food anyhow, as injera is technically considered the utensil. Nevermind the soggy delicious injera, we pressed on.
 
 <figure>
-    <img src="/images/blog/021413_merkato_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/021413_merkato_2_courtesy_fc.jpg"></img>
     <figcaption>TIBBS.</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ The first source stated that **the rubbing of salt on the _mitad_** before the b
 The second source showed that **bubbles naturally formed on the surface of the injera**, if the batter consistency and fermentation were right.
 
 <figure>
-    <img src="/images/blog/021413_merkato_3_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/021413_merkato_3_courtesy_fc.jpg"></img>
     <figcaption>Fruits of your labor.</figcaption>
 </figure>
 
@@ -57,13 +57,13 @@ With the case of bread, when temperatures rise from baking, gases such as carbon
 **With the case of injera batter,** the viscosity is much lower, and therefore, more fluid. Not to mention when spread over the _mitad_, the height of the bread (bottom to top) is only about a centimeter thick. Trapped gases formed within the batter during fermentation expand and rise when the heat comes along. Since the protein network is not strong enough (surface tension is weak, and traditional injera has no gluten), and the batter does not have a high viscosity, the bubbles rise, form at the surface, and then "pop", creating small holes. Subsequent lid-on-mitad steaming sets these holes before they can be filled, and wonderful spongy, hole-y injera is made. So my previous guess that it was fermentation had a critical component missing- what happens to the products of fermentation under the conditions of heat. If we zoom in on the thin layer of batter up close...
 
 <figure>
-    <img src="/images/blog/052413_injera_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052413_injera_courtesy_fc.jpg"></img>
     <figcaption>Visual.</figcaption>
 </figure>
 
 **The addition of salt** works only in that it creates an uneven surface for the initial batter pour. This traps microscopic air pockets underneath the batter. A good analogy would be trying to lay a rug flat on a bunch of golf balls. Air gets trapped underneath, and when that air is heated, it rises.
 
 <figure>
-    <img src="/images/blog/021413_merkato_4_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/021413_merkato_4_courtesy_fc.jpg"></img>
     <figcaption>Interesting ceiling decorations.</figcaption>
 </figure>

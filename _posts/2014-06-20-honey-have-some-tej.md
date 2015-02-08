@@ -4,7 +4,7 @@ title: Honey...
 category: blog
 tags: [drink]  
 summary: Have some Tej.
-image: /images/blog/030913_sheba_piano_bar_1_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030913_sheba_piano_bar_1_courtesy_fc.jpg
 ---
 
 **Sheba Piano Bar.**
@@ -22,7 +22,7 @@ Another side note before I get to the food. I instigated the "no pictures in shi
 In light of the last post, I'm going to dedicate this Ethiopian experience on Tej, the honey/raw honeycomb infused wine that served as our pre-dinner aperitif.
 
 <figure>
-    <img src="/images/blog/030913_sheba_piano_bar_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030913_sheba_piano_bar_1_courtesy_fc.jpg"></img>
     <figcaption>Ants around a benzene (Chem joke).</figcaption>
 </figure>
 

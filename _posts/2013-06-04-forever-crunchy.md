@@ -4,7 +4,7 @@ title: Forever Crunchy
 category: blog
 tags: [food]  
 summary: Jun Won. Farewell Los Angeles. (For now).
-image: /images/blog/021413_jun_won_1_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/021413_jun_won_1_courtesy_fc.jpg
 ---
 
 [Jun Won](http://www.yelp.com/biz/jun-won-restaurant-los-angeles). My last meal in Los Angeles.
@@ -20,14 +20,14 @@ You must think that I'm just bonkers; who the hell thinks about this kind of cra
 Hopefully no one else.
 
 <figure>
-    <img src="/images/blog/021413_jun_won_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/021413_jun_won_1_courtesy_fc.jpg"></img>
     <figcaption>Pact broken.</figcaption>
 </figure>
 
 Anyhow, what caught my attention this meal was the lotus root inspired banchan. They've got the curious holes in the middle, which makes lotus root a 360 degree thing of beauty when cut and served. Even after complete cooking, lotus root retains its crunch; it doesn't "fall apart" like potatoes, taro, or carrots. What gives (or doesn't)?
 
 <figure>
-    <img src="/images/blog/021413_jun_won_3_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/021413_jun_won_3_courtesy_fc.jpg"></img>
     <figcaption>Crunchier!</figcaption>
 </figure>
 

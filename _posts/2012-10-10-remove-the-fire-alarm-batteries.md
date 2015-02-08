@@ -4,7 +4,7 @@ title: Remove the fire alarm batteries!
 category: blog
 tags: [food]  
 summary: Burning things in the kitchen. 
-image: /images/blog/070512_chips_n_mince_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/070512_chips_n_mince_courtesy_fc.jpg
 ---
 
 **This is the special home cooking edition.**
@@ -18,7 +18,7 @@ We begin.
 Genetics, pretty much. The most simple version? Mendelian genetics. Crash course? You're welcome.
 
 <figure>
-    <img src="/images/blog/072112_pumpkin_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/072112_pumpkin_1_courtesy_fc.jpg"></img>
     <figcaption></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ Second plant: gg (Homozygous recessive) Yellow.
 First plant meets second plant. They have a couple of great dates. They mate and have kids. (Figure 1).
 
 <figure>
-    <img src="/images/blog/100912_f1_gen_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/100912_f1_gen_courtesy_fc.jpg"></img>
     <figcaption>Figure 1. Plant 1 mates with Plant 2. Color is the phenotype (what you see).</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ The kids they produce are all Gg (Heterozygous). The kids are all green. Remembe
 Some of the kids go through some infelicitous activity, and mate. (Figure 2).
 
 <figure>
-    <img src="/images/blog/100912_f2_gen_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/100912_f2_gen_courtesy_fc.jpg"></img>
     <figcaption>Figure 2. Inappropriate kid activity.</figcaption>
 </figure>
 
@@ -60,21 +60,21 @@ To an extent, it's just gene match and (mis) matching. Genes for stripes, no str
 I've tried several methods of cooking ground beef in order to not dry it out. I've tried hot pan start (most meats), cold pan start (pork chop start), tiny bit of broth (restaurant secret), vigorous stirring (scrambled eggs), long-braises (stew), patty form, meatball form, and help from vegetables and starches. It seems the consensus of all this unscientific, subjective testing was that ground beef basically acts like...meat (great observation, I know). Mold it into a piece, or leave it in pieces. But *surface area* dominates.
 
 <figure>
-    <img src="/images/blog/070512_chips_n_mince_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/070512_chips_n_mince_courtesy_fc.jpg"></img>
     <figcaption>Chips n' mince. Ground beef had help from a little broth, some tomatoes, tomato paste, and green beans. Some salt, and off the heat when ready.</figcaption>
 </figure>
 
 My physics teacher back in high school always said, "when in doubt, the answer is surface area...or C, if its multiple choice." (He changed "C" to "D," to other various letters of the alphabet, week by week.) Ground beef, when in small itty-bitty pieces, possesses a much larger surface area than a steak, given the same amount of meat. The more surface area, the more interface for heat transfer (so it cooks faster) but also, the more interface for water loss (dry). The finer the meat, the quicker it cooks. So it's going to need help. Add fatty bits, vegetables, starches, stuff it into peppers, or decrease the surface area by molding it into meatballs or patties. Oh, and don't obliterate it with too high a heat or too long of a heat.
 
 <figure>
-    <img src="/images/blog/100912_sa_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/100912_sa_courtesy_fc.jpg"></img>
     <figcaption>Which side has more black lines? More lines, more surface area.</figcaption>
 </figure>
 
 **Bacon bubbles? Soapy bacon? Or something else?**
 
 <figure>
-    <img src="/images/blog/081612_bacon_bubbles_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/081612_bacon_bubbles_2_courtesy_fc.jpg"></img>
     <figcaption>Bacon bubble bath. Rejuvenate NOW.</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Many liquids can create foams. They're usually dictated by how sturdy that parti
 I love bacon. I love dates. I love em' together. Is there science behind why they're good together? It's not scientifically rigorous, but I can perhaps think of an example to why the combination might be good.
 
 <figure>
-    <img src="/images/blog/082312_bacon_date_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/082312_bacon_date_1_courtesy_fc.jpg"></img>
     <figcaption>I am proud of this.</figcaption>
 </figure>
 
@@ -98,14 +98,14 @@ Heinz ketchup was created for the purpose of a condiment that "hit all the butto
 I have to say frozen slushie grapes (basically frozen grapes) are a pretty awesome treat. When I was a kid, I used to have frozen grapes, and then pour Sprite into a small bowl of these goodies, and just spoon it in. It was quite awesome. It was like...fruit cereal? Anyway, this question deals with what happens when you THAW out frozen grapes (or any other frozen fruit). Lemme tell ya'. It ain't pretty.
 
 <figure>
-    <img src="/images/blog/091412_frozen_slushie_grapes_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/091412_frozen_slushie_grapes_courtesy_fc.jpg"></img>
     <figcaption>Where's the Sprite?</figcaption>
 </figure>
 
 Water expands when frozen because it forms a crystalline structure that is less dense than liquid water. This crystalline structure will form small crystals or large crystals depending on how cold the ambient temperature is, and how much time the fruit is exposed to frigid temperatures. Longer times in cold temperatures will tend to form large ice crystals (the water has more time to move, before all kinetic energy is lost and they freeze in place). Shorter times in cold temperatures will form smaller ice crystals, as they have less time to move before all kinetic energy is lost. The only way to create a "shorter time" is to make it colder. Kinetic energy in the water is lost faster this way, thus a colder temperature is an automatic requirement for shorter times. (This is why they blast-chill freshly caught fish. Water freezes out super fast, so it doesn't have time to create beautiful, large...penetrating crystals).
 
 <figure>
-    <img src="/images/blog/100912_water_expansion_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/100912_water_expansion_courtesy_fc.jpg"></img>
     <figcaption>How your fruit loses against water in an arctic showdown.</figcaption>
 </figure>
 
@@ -116,7 +116,7 @@ When water forms large crystals, they penetrate the cell walls of the fruit, bas
 I do semi-frequent drives from the Bay Area to L.A. (and now some to San Diego), but upon arriving back in the Bay Area this time around, a streak of colors caught my eye on my car's grille. On closer inspection I saw a big ol' green dragonfly stuck on there. It was pretty damn big. The normal person's reaction would usually be, "oh that's gross," pull out a secret hose from their sweater and pressure-blast the carcass away. Instead, the first thought that crossed my mind was, "I wonder what that would taste like...battered in some egg, some chili-pecan powder..."
 
 <figure>
-    <img src="/images/blog/092512_dragonfly_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/092512_dragonfly_1_courtesy_fc.jpg"></img>
     <figcaption>Roadkill? Flightkill?...no. Surpriiiiiiiise!</figcaption>
 </figure>
 

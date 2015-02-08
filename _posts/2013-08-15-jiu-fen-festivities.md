@@ -4,7 +4,7 @@ title: Jiu Fen Festivities
 category: blog
 tags: [food]  
 summary: A festival of lights.
-image: /images/blog/022813_meat_paper_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022813_meat_paper_courtesy_fc.jpg
 ---
 
 **Jiǔ Fèn festivities and fun.**
@@ -22,28 +22,28 @@ Jiǔ Fèn is an area that was and still is known for its night lanterns. The who
 **Begin post-workout festivities.** Our first stop in Jiǔ Fèn was for the Taiwanese delicacy 肉圓, ròu-wán. "Meat sphere" is the direct English translation; the meat contained within (usually pork) is marinated in red vinasse (*monascus purpureus*), which gives it its characteristic maroon color. All of this botany-marinated meat nonsense is combined with mushrooms and bamboo shoots and stuffed inside a thick skin made from any combination of sweet potato, rice, or tapioca flour. This is subsequently chucked into a steamer until translucent and gummy.
 
 <figure>
-    <img src="/images/blog/022813_meat_balls_red_vinasse_monascus_purpureus_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022813_meat_balls_red_vinasse_monascus_purpureus_courtesy_fc.jpg"></img>
     <figcaption>Hm. Can't really see that maroon.</figcaption>
 </figure>
 
 **Meat paper** was pretty funny. We sampled it in the open air market. It resembled the taste of meat wool, just in paper form. Funny all the different forms that meat can take. Steaks, cured, jerky, paper, wool, Lady Gaga's bacon dress, powder...what's next? **If meat could "evolve," how would you organize its chronological evolution?**
 
 <figure>
-    <img src="/images/blog/022813_meat_paper_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022813_meat_paper_courtesy_fc.jpg"></img>
     <figcaption>Evolution.</figcaption>
 </figure>
 
 **[Herbal Rice Cake](http://ttf.ncfta.gov.tw/en-us/Term/Content.aspx?Para=62)** (草仔粿). Sticky rice + a special herb called *Gnaphalium* (鼠麴草) + dried shrimp/fish filling + steam = deep grass green glutinous cake that tastes like a savory forest.
 
 <figure>
-    <img src="/images/blog/022813_herbal_cake_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022813_herbal_cake_courtesy_fc.jpg"></img>
     <figcaption>A mini-stuffed Hulk.</figcaption>
 </figure>
 
 **The peanut ice cream burrito!** If this were ever marketed in the United States, it would need a better name. This superhero consisted of a <del>cape</del> tortilla, <del>a handsomely trimmed mustache</del> finely shaved peanut brittle, <del>a fine-toned ass</del> two scoops of pineapple flavored ice cream, and <del>swag</del> cilantro. The taste was sweet, fruity, and crunchy, finished with that cilantro bite. I'm not too sure of the functionality of cilantro in this case, but I found that the savory contrast added a much needed herbal component, so...the ultimate functionality was *balance.* Aside from the tortilla, it wouldn't be far to see those components in a salad. Imagine shredded green papaya, julienned carrot, and pineapple vinaigrette tossed together with cilantro and a dash of peanuts...**awesome...or gross?**
 
 <figure>
-    <img src="/images/blog/022813_peanut_brittle_burrito_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022813_peanut_brittle_burrito_1_courtesy_fc.jpg"></img>
     <figcaption>You put cilantro in what?</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ This was the storefront, and what was going to go on into my mouth. Various form
 **I finished the day sneaking a picture of this bad boy.** I don't think the stand was very popular. Or legal. Well, probably legal, just not appropriate.
 
 <figure>
-    <img src="/images/blog/022813_a_taste_of_gayke_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022813_a_taste_of_gayke_courtesy_fc.jpg"></img>
     <figcaption>Interesting.</figcaption>
 </figure>
 

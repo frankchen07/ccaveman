@@ -4,7 +4,7 @@ title: Bludso's Smoke Rings
 category: blog
 tags: [food]  
 summary: Barbecue and delicious smoke rings.
-image: /images/blog/051313_bbq_birthday_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/051313_bbq_birthday_courtesy_fc.jpg
 ---
 
 [Bludso's BBQ](http://www.yelp.com/biz/bludsos-bbq-compton).
@@ -14,7 +14,7 @@ image: /images/blog/051313_bbq_birthday_courtesy_fc.jpg
 ---
 
 <figure>
-    <img src="/images/blog/051313_bbq_birthday_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/051313_bbq_birthday_courtesy_fc.jpg"></img>
     <figcaption>A BBQ B-day.</figcaption>
 </figure>
 
@@ -31,28 +31,28 @@ Carrying the monstrosity through my friend's workplace earned us some curious ey
 Upon breaking into the heavily Saran-wrapped container (actually a very smart maneuver for take-out efficiency), we discovered more meat that we had previously imagined, a hefty serving of coleslaw, collard greens, cornbread, and...Wonderbread. I recall my friend holding up the Wonderbread and chuckling, wondering what exactly it was for. Perhaps it was used to make our own brisket/rib/pulled pork/chicken sandwich. Hm.
 
 <figure>
-    <img src="/images/blog/020613_bludsos_bbq_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/020613_bludsos_bbq_1_courtesy_fc.jpg"></img>
     <figcaption>It's like Legos.</figcaption>
 </figure>
 
 One of the first things that I noticed, compared to other BBQ locations in Los Angeles, was the smoke ring that was present on the meat. The smoke ring is supposedly a sign that the barbecue has been done "the proper justice." For all the folks who are looking at me with a "WTF is this guy smokin' look," the smoke ring is the layer of "pinkness" found just under the "bark," (the super black crust on the surface of the meat).
 
 <figure>
-    <img src="/images/blog/020613_bludsos_bbq_4_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/020613_bludsos_bbq_4_courtesy_fc.jpg"></img>
     <figcaption>Oh, mama.</figcaption>
 </figure>
 
 In actuality, the smoke ring may not mean anything, in terms of the barbecue. The pinkness just under the bark is not an indication of "smoke penetrating the meat," as there is, according to the musings of Steve Chatterton, "the acquisition of smoke rings without smoke, and the accomplishment of heavily smoked meats without ring development," all of which suggest that the high-held smoke ring was perhaps just the made up mantra of a BBQ circle jerk.
 
 <figure>
-    <img src="/images/blog/020613_bludsos_bbq_5_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/020613_bludsos_bbq_5_courtesy_fc.jpg"></img>
     <figcaption>Good view of the smoke ring.</figcaption>
 </figure>
 
 The smoke ring can still be explained by some chemical reactions. Meat has blood cells called myoglobin. Depending on its oxidation state, they can be red, maroon, brown (which is why meat looks different at different stages of oxygen exposure). When we barbecue, the wood chips we use contain nitrogen, and the air contains oxygen (oh-two). Nitrogen and oxygen react together, and create nitrogen dioxide (en-oh-two), which is water soluble. Meat contains water, and subsequently uptakes nitrogen dioxide, where it reacts with water to create nitric acid (en-oh-three), which is the major contributor to the pinkness. You could say that the "smoke ring" is a product of a reaction with the reactants being air and a source of nitrogen, the intermediate product nitrogen dioxide, and the end product, nitric acid. Smoke actually isn't..."absorbed," actual smoke particles end up on the bark, which is why it's black. Here's a [reference](http://www.smokingpit.com/Info/SmokeRing.pdf).
 
 <figure>
-    <img src="/images/blog/051313_smoke_ring_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/051313_smoke_ring_courtesy_fc.jpg"></img>
     <figcaption>The process.</figcaption>
 </figure>
 

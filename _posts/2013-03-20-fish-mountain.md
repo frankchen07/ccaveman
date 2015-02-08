@@ -4,7 +4,7 @@ title: Scaling Up Fish Mountain
 category: blog
 tags: [food]  
 summary: Wando's Fish BBQ!
-image: /images/blog/090912_wando_fish_bbq_5_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/090912_wando_fish_bbq_5_courtesy_fc.jpg
 ---
 
 [Wando's Fish BBQ](http://www.yelp.com/biz/wando-fish-bbq-restaurant-los-angeles)
@@ -16,7 +16,7 @@ image: /images/blog/090912_wando_fish_bbq_5_courtesy_fc.jpg
 A very fish-heavy meal. Two preparations, grilled and in a stew. A light fish broth, coupled with a mild red pepper flake gig and littered with kimchee, bean sprouts, and perilla. The tenderness of the fish was surprising, as fish flesh is usually delicate and prone to overcooking, especially if stuck in high temperature stews.
 
 <figure>
-    <img src="/images/blog/090912_wando_fish_bbq_6_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/090912_wando_fish_bbq_6_courtesy_fc.jpg"></img>
     <figcaption>The Red Sea.</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ My searches of scientific articles yielded [this](http://onlinelibrary.wiley.com
 Before I continue, two things come to mind when we explore the offal, the odd ends, bits and pieces of animals that are traditionally avoided or cut off. **First**, if one decides to stick it on a plate, I'd like for it to be edible. Naturally, I'm a curious eater; I'll smell, nibble, and bite at everything that is presented on a plate. To me, there's no such thing as garnish, at least for aesthetic reasons. Garnish to me has to provide some sort of function, whether its to bring flavors full circle, or to add a hint of flavor to finish. Aesthetics, in this case, would only be a bonus. **Two**, I don't like wasting edibles. Incorporating fish scales into a meal...sign me up.
 
 <figure>
-    <img src="/images/blog/090912_wando_fish_bbq_5_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/090912_wando_fish_bbq_5_courtesy_fc.jpg"></img>
     <figcaption>Simple yet delicious.</figcaption>
 </figure>
 
@@ -42,6 +42,6 @@ The **second study** involved the use of fish scales as a potential calcium supp
 **Happy scaling.**
 
 <figure>
-    <img src="/images/blog/090912_wando_fish_bbq_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/090912_wando_fish_bbq_2_courtesy_fc.jpg"></img>
     <figcaption>And a palate cleanser.</figcaption>
 </figure>

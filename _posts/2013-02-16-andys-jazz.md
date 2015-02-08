@@ -4,7 +4,7 @@ title: Andy's Jazz
 category: blog
 tags: [food]  
 summary: Music funtimes in Chicago.
-image: /images/blog/090312_andys_jazz_1_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/090312_andys_jazz_1_courtesy_fc.jpg
 ---
 
 [Andy's Jazz](http://www.yelp.com/biz/andys-jazz-club-chicago-2). Wandering in Chicago.
@@ -16,7 +16,7 @@ image: /images/blog/090312_andys_jazz_1_courtesy_fc.jpg
 Nearing the end of my Chicago trip, my friends and I decided we wanted to hit up a jazz bar, so...that's what we did. One of my friends learned how to play bass guitar on his own, and had begun dabbling in some improvisation, and the other, well, he was my stand partner in wind ensemble back in high school when we were both rockin' the clarinets like no one's business. The last brave adventurer, who was not present for this small excursion (b/c of work), played the pipa. (If we all had gotten together, we probably could've started a band). For my taste in music, I tend to lean on the clarinet jazz pretty hard, when I'm not in the mood for crazy dance music or mellow stuff.
 
 <figure>
-    <img src="/images/blog/090312_andys_jazz_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/090312_andys_jazz_1_courtesy_fc.jpg"></img>
     <figcaption>Steak salad, with an...alien UV glow.</figcaption>
 </figure>
 

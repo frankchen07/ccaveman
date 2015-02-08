@@ -4,7 +4,7 @@ title: Old Chef Beef Noodles
 category: blog
 tags: [food]  
 summary: When I was a kid, was it called Young Chef Beef Noodles?
-image: /images/blog/022813_old_chef_beef_noodle_1_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022813_old_chef_beef_noodle_1_courtesy_fc.jpg
 ---
 
 **Old Chef Beef Noodles.**
@@ -16,19 +16,19 @@ image: /images/blog/022813_old_chef_beef_noodle_1_courtesy_fc.jpg
 Before I touched down in Taiwan, I had it in my mind to visit a particular beef noodle place that I frequented as a kid, but unfortunately upon arrival, my mother informed me that that particular restaurant simply wasn't up to par anymore- she merely took me there for convenience. Instead, she recommended "Old Chef Beef Noodles," a quaint little restaurant that she had been frequenting with her own mother. As delicious as this new location sounded, part of me still had a calling for the old location- just as a formality, to relive the first one-tenths of my life. My mother rebutted that she didn't remember where the restaurant was; I'm not sure if this was a ploy to completely drown the idea, or if she actually didn't remember. I'm going to give her the benefit of the doubt, and that perhaps I actually would've been disappointed in that experience.
 
 <figure>
-    <img src="/images/blog/022813_old_chef_beef_noodle_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022813_old_chef_beef_noodle_1_courtesy_fc.jpg"></img>
     <figcaption>"Old Chef Beef Noodle"</figcaption>
 </figure>
 
 My want of the old noodle place quickly dissipated as I dug in. I ordered the traditional braised beef noodles, which included the use of tomato. My mother ordered the clear broth beef noodles, since her palate has always had a preference for lighter flavors. This was fortunate, since variety in between diners always leads to mini-tasting-sharing-sessions that increases the amount of food one tries, all at a discounted price.
 
 <figure>
-    <img src="/images/blog/022813_old_chef_beef_noodle_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022813_old_chef_beef_noodle_2_courtesy_fc.jpg"></img>
     <figcaption>Dark braise.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/blog/022813_old_chef_beef_noodle_3_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022813_old_chef_beef_noodle_3_courtesy_fc.jpg"></img>
     <figcaption>Light tan.</figcaption>
 </figure>
 

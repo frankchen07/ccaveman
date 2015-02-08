@@ -4,7 +4,7 @@ title: Blood Cubes
 category: blog
 tags: [food]  
 summary: Yeah, this is what we're eating. 
-image: /images/blog/022513_da_ja_palace_2_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022513_da_ja_palace_2_courtesy_fc.jpg
 ---
 
 **Da Ja Palace. A restaurant in the Neihu district.**
@@ -16,26 +16,26 @@ image: /images/blog/022513_da_ja_palace_2_courtesy_fc.jpg
 The pickled vegetables were just...pickled vegetables. This refreshing combination was made possible with contributions from soy sauce, sesame oil, salt, sugar, and perhaps a dabble of vinegar. A rather simple appetizer. The sauteed cabbage and braised lamb that arrived later were standard Chinese favorites that were throwbacks to my childhood (and adulthood, actually, since I still consume these things rather regularly). All good stuff.
 
 <figure>
-    <img src="/images/blog/022513_da_ja_palace_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022513_da_ja_palace_1_courtesy_fc.jpg"></img>
     <figcaption>Crunchface.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/blog/022513_da_ja_palace_5_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022513_da_ja_palace_5_courtesy_fc.jpg"></img>
     <figcaption>Braised lamb.</figcaption>
 </figure>
 
 The eel with yellow leek was savory and crunchy, but it harbored a slight chemical taste that I couldn't quite put my finger on (maybe MSG, but glutamates, regardless of origin serve only to enhance present flavors). Regardless, the eel dish was significantly different from standard fish dishes because there was an interesting juxtaposition of slimy and tender.
 
 <figure>
-    <img src="/images/blog/022513_da_ja_palace_4_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022513_da_ja_palace_4_courtesy_fc.jpg"></img>
     <figcaption>Slimy...or...tender? How about sl-ender?</figcaption>
 </figure>
 
 The highlight dish of the day was duck's blood cubes and pig intestines in a spicy stew. I have always enjoyed ordering this dish because it comes on top of a cooker, so while you're noming on other dishes, it's [furiously bubbling away](http://youtu.be/oYN087l4OMc); it's a dish that keeps the heat around, and doesn't need to be rushed. Because of this nifty perk, I've always managed to find the need for tongue skin grafts, since every serving of the damn thing is like lava.
 
 <figure>
-    <img src="/images/blog/022513_da_ja_palace_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022513_da_ja_palace_2_courtesy_fc.jpg"></img>
     <figcaption>Eruption: imminent.</figcaption>
 </figure>
 

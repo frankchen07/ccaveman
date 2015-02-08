@@ -4,7 +4,7 @@ title: Food Critics. A Short.
 category: blog
 tags: [food]  
 summary: Talking food criticisms.
-image: /images/blog/011115_best_burma_3_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/011115_best_burma_3_courtesy_fc.jpg
 ---
 
 **Judging food.**

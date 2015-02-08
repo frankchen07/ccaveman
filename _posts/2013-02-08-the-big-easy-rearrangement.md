@@ -4,7 +4,7 @@ title: The Big Easy Rearrangement
 category: blog
 tags: [food]  
 summary: Yolks and things in Chicago.
-image: /images/blog/090212_yolk_2_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/090212_yolk_2_courtesy_fc.jpg
 ---
 
 [Yolk](http://www.yelp.com/biz/yolk-chicago-3). Brunch in rainy Chicago. Overdressed as usual.
@@ -20,7 +20,7 @@ Anyway, Chicago, at this time in hazy September, was humid, rainy, and surprisin
 Anyway, my good friend dragged us to Yolk for brunch. I opted (again) out of the usual omelet, and went for the Big Easy skillet. The meal was okay. Nothing crazy fancy, and my over easy eggs came broken, so that was a bit disappointing. The vegetable variety in the skillet wasn't bad, but they were slightly greasy. The potatoes were also a bit dry and soggy. In terms of texture and satisfaction of each bite, it scored below average, but the overall flavors were there. The sausage was slightly salty; luckily, the potatoes needed an extra kick, and the the spice from the Andouille sausage provided just that.
 
 <figure>
-    <img src="/images/blog/090212_yolk_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/090212_yolk_2_courtesy_fc.jpg"></img>
     <figcaption>The Big but hardly Easy (to finish).</figcaption>
 </figure>
 

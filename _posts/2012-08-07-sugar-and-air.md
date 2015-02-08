@@ -4,7 +4,7 @@ title: Purchasing Sugar and Air
 category: blog
 tags: [dessert]  
 summary: Ice cream and all its wonders. 
-image: /images/blog/052612_nougat_5_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052612_nougat_5_courtesy_fc.jpg
 ---
 
 **Vienna, Germany. Nougat.**
@@ -38,12 +38,12 @@ We can start with the most natural to the most synthetic. Chemistry abounds.
 Beat egg white hard enough, and you'll create a wonderful white foam. This happens because of the protein present in egg-white, which act as stabilizers. Egg whites are approximately 80% water. The rest are proteins, most notably, ovalbumin, conalbumin, ovomucoids, and lysozymes (one of them could probably be called blahblahblah, and you'd continue reading anyway). Proteins in this case, are stabilizing water through the creation of amide bonds. Agitation and kinetic energy from whipping gives the proteins energy to form and break bonds, adding structure to the water. More structure and "less drainage of the walls" makes a foam. Figure One's all about two proteins becoming one. The amide bond is labeled. Figure Two's all about how the amine (NH2) group attacks the carboxyl (COOH) group. Electron-musical chairs ensues (blue arrows). Hydroxyl group (OH) gets angry and leaves, steals a hydrogen somewhere else to mitigate that anger, and makes water.
 
 <figure>
-    <img src="/images/blog/052612_nougat_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052612_nougat_1_courtesy_fc.jpg"></img>
     <figcaption>Figure One.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/blog/052612_nougat_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052612_nougat_2_courtesy_fc.jpg"></img>
     <figcaption>Figure Two.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Beat egg white hard enough, and you'll create a wonderful white foam. This happe
 Basically, this is fat, derived from soy. Lecithin can come from both animal or plant, but soy is the most easily and cheaply obtained. The most common example is in egg yolk, which contains natural lecithins. Lecithin has amphiphatic properties, meaning they can form bonds in both aqueous (water-based solutions) as well as non-aqueous (non-water solutions). It can act as a mediator between polar (environments with a net charge) and apolar (environments...without a net charge) environments. When fat is emulsified in water (or vice versa) with the help of an amphiphatic molecule, stabilization occurs. Figure three basically is an example of an amphiphatic molecule. R1 
 
 <figure>
-    <img src="/images/blog/052612_nougat_4_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052612_nougat_4_courtesy_fc.jpg"></img>
     <figcaption>Figure Three.</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ Basically, this is fat, derived from soy. Lecithin can come from both animal or 
 A amphoteric protein. (Amphoteric meaning, it can act as an acid (electron receiver) or base (electron donor). If you've ever taken basic chemistry, there's 20 amino acids. Gelatin contains a bunch of them. For simplicity purposes, it's mostly glycine. (Figure Four). The rest 80% is amino acids and amino acid derivatives and all that gunk. It's versatility and ability to form matrices is highly dependent on the acidity of the solution (the pH would essentially dictate whether it would act as an acid or a base, as the amine group and the carboxyl group would have different protonation states (less or more hydrogens)).
 
 <figure>
-    <img src="/images/blog/052612_nougat_3_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052612_nougat_3_courtesy_fc.jpg"></img>
     <figcaption>Figure Four. Glycine!</figcaption>
 </figure>
 
@@ -70,6 +70,6 @@ In all these cases, it would allow "less drainage of the bubble wall." (Take awa
 **Site update: I moved to a dot com. Yay. I still want to change the way the site looks, and I'm kind of computer-graphics/design/wordpress challenged. Boo. Updates and expansions to come (slowly). Have some nougat.**
 
 <figure>
-    <img src="/images/blog/052612_nougat_5_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052612_nougat_5_courtesy_fc.jpg"></img>
     <figcaption>Few things in life are so clearly labeled.</figcaption>
 </figure>

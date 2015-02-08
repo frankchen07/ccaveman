@@ -4,7 +4,7 @@ title: Woodhouse
 category: blog
 tags: [food]  
 summary: University waffles.
-image: /images/blog/071914_woodhouse_1_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/071914_woodhouse_1_courtesy_fc.jpg
 ---
 
 **Chia Te & Woodhouse. Miscellaneous fun times.**
@@ -24,7 +24,7 @@ We crept around the inside of some of the buildings, unsure whether or not campu
 Upon exiting, we gravitated towards a small shack in the center of the university called "Woodhouse," which was serving up all sorts of interesting waffle combinations. I can't quite recall if the shack itself was made out of wood, so I can't say that the whole scene was ridiculously ironic. Regardless, the waffle batter smelled pretty wonderful, and with all the chocolatebananaicecream toppings, it sort of felt like a mobile Willy Wonka factory (they had somewhere in the vicinity of 20-30 highly olfactory-stimulating toppings). Once again, I had difficulty discerning the characters on the menu, but no worry...in the land of food, your senses are all that you need.
 
 <figure>
-    <img src="/images/blog/071914_woodhouse_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/071914_woodhouse_2_courtesy_fc.jpg"></img>
     <figcaption>So epic.</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ It's surprising how much information our eyes can tell us. I wasn't completely o
 The reason those waffle irons don't make an absolute mess upon waffle removal is first and foremost, the use of advancing technology. Teflon, or polytetrafluoroethylene, is basically a high molecular weight polymer that is hydrophobic and exhibits high London dispersion forces (repulsive forces), basically conferring a very low coefficient of friction (a.k.a, doesn't stick). In fact, they coat certain types of clothing with Teflon, and whaddeya know, the water rolls right off. Of course there's some downside to using a chemical; at extremely high heats, you might end up eating it, since it comes off the pan.
 
 <figure>
-    <img src="/images/blog/071914_woodhouse_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/071914_woodhouse_1_courtesy_fc.jpg"></img>
     <figcaption>Sort of looks like wood?</figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ Caramelization and searing leaves behind carbon residue (obliterated carbons of 
 **End of the day: Pineapple cake.** I can't complain. I don't think this needs any sort of scientific explanation.
 
 <figure>
-    <img src="/images/blog/030113_chiate_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030113_chiate_2_courtesy_fc.jpg"></img>
     <figcaption>What a way to end the day.</figcaption>
 </figure>
 

@@ -4,7 +4,7 @@ title: Kamjatang
 category: blog
 tags: [food]  
 summary: More uniquely delicious Korean stews.
-image: /images/blog/110712_gamjagol_2_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/110712_gamjagol_2_courtesy_fc.jpg
 ---
 
 [Songpa Yukejang](http://www.yelp.com/biz/songpa-yukejang-pleasanton), and [Gamjagol](http://www.yelp.com/biz/gam-ja-gol-los-angeles).
@@ -18,29 +18,29 @@ Kamjatang is basically a spicy Korean stew cooked with whole potato, pork spine 
 In my opinion, the most difficult aspect of eating kamjatang, in particular, are the mechanics of the dish. Navigating the awkwardly shaped pork spine bones made it a serious chore in terms of meat availability; there was hardly a bite I didn't work for. A pair of tweezers would have been nice. Aside from the difficulty rating of the meal, this Korean establishment employs waitresses that don't speak Korean, but rather...Mandarin. It creates a rather interesting experience, as my brain farts for about a second, since I don't expect to utilize my Mandarin faculties in a Korean restaurant; but hey, it's all good. The ladies are kind, the food is hot, and the restaurant is homey. I've never been to Korea, but damn if there's anywhere else you can get a Chinese-Korean audio-culinary experience.
 
 <figure>
-    <img src="/images/blog/110712_gamjagol_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/110712_gamjagol_1_courtesy_fc.jpg"></img>
     <figcaption>Infinite banchan.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/blog/101212_songpa_yukejang_1_courtesy_jc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/101212_songpa_yukejang_1_courtesy_jc.jpg"></img>
     <figcaption>Pickled cucumber.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/blog/101212_songpa_yukejang_3_courtesy_jc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/101212_songpa_yukejang_3_courtesy_jc.jpg"></img>
     <figcaption>Mung bean. Spicy radish.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/blog/101212_songpa_yukejang_2_courtesy_jc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/101212_songpa_yukejang_2_courtesy_jc.jpg"></img>
     <figcaption>Red pepper tofu.</figcaption>
 </figure>
 
 The galbi at Songpa Yukejang (switching gears 350 miles north of Los Angeles) was to my liking; the marinade that was used was not excessively sweet or sticky and did not cling onto the meat, which sometimes would render a rather unpalatable galbi dish. But none was the case here, the galbi was savory with a hint of sweetness, and finished nicely with fresh scallions and sesame seeds. Delish. No Chinese waitresses, unfortunately.
 
 <figure>
-    <img src="/images/blog/101212_songpa_yukejang_4_courtesy_jc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/101212_songpa_yukejang_4_courtesy_jc.jpg"></img>
     <figcaption>Meat on an onion mattress.</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ An integral part of kamjatang lies in the earthly flavor that the potato gives t
 The browning on the larger surface area of the potato creates a deeper flavor profile but with time, still allows starch leakage for flavor development of the stew. **Top** the stew with your fried potato skins.
 
 <figure>
-    <img src="/images/blog/110712_gamjagol_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/110712_gamjagol_2_courtesy_fc.jpg"></img>
     <figcaption>The O.G.</figcaption>
 </figure>
 

@@ -4,7 +4,7 @@ title: Mighty Quinn's BBQ
 category: blog
 tags: [food]  
 summary: Barbecue in the N-Y-City.
-image: /images/blog/031713_mighty_quinns_bbq_2_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031713_mighty_quinns_bbq_2_courtesy_fc.jpg
 ---
 
 **Mighty Quinn's BBQ.**
@@ -16,14 +16,14 @@ image: /images/blog/031713_mighty_quinns_bbq_2_courtesy_fc.jpg
 I was pitifully, once again, under dressed for the weather of New York. I took my barbecue to go, since I wanted the experience of eating in the smoky air of the spring (extended winter). It turned out to be not too great of a decision, as it was freezing cold and the lighting was pretty bad. I most likely was burning the meal as I ate it.
 
 <figure>
-    <img src="/images/blog/031713_mighty_quinns_bbq_3_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031713_mighty_quinns_bbq_3_courtesy_fc.jpg"></img>
     <figcaption>I don't always BBQ, but when I do...</figcaption>
 </figure>
 
 The brisket was less dry than I had anticipated, but I feel, for the most part, dryness is the norm with briskets. Most brisket that I've tried has this severe divide where there's dry meat and then an entire section of melty fat. It's like the cupcake effect, where you want a bite of frosting for every bready part of the cupcake, but its just not evenly distributed like that. So you cut the cupcake horizontally and flip the cap upside down so you can have a cupcake sandwich instead, or you break out the plates and full-on silverware so you can perform cupcake surgery and adequately redistribute frosting.
 
 <figure>
-    <img src="/images/blog/031713_mighty_quinns_bbq_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031713_mighty_quinns_bbq_2_courtesy_fc.jpg"></img>
     <figcaption>Look at that burnt carbon just chillin' there.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ The burnt end baked beans were not as amazing as reviews reported; most of the b
 Since the barbecue was more than acceptable, I decided to focus this post on those pesky burnt-end beans. I suspect they used refried beans of some sort, added with liberal amounts of ends, brown sugar, vinegar, and cooked to a crusty, gooey, delicious mess.
 
 <figure>
-    <img src="/images/blog/031713_mighty_quinns_bbq_4_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031713_mighty_quinns_bbq_4_courtesy_fc.jpg"></img>
     <figcaption>Soupy & sweet.</figcaption>
 </figure>
 

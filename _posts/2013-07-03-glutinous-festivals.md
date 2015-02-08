@@ -4,7 +4,7 @@ title: Glutinous Festivals
 category: blog
 tags: [food]  
 summary: Sticky rice all up in here.
-image: /images/blog/022413_more_home_cooking_5_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022413_more_home_cooking_5_courtesy_fc.jpg
 ---
 
 **February 24th, 2013. Home-food and glutinous rice balls.**
@@ -36,7 +36,7 @@ C. Moisture.
 D. Repeat B & C until desired/appropriate thickness.  
 
 <figure>
-    <img src="/images/blog/070313_glutinous_rice_ball_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/070313_glutinous_rice_ball_courtesy_fc.jpg"></img>
     <figcaption>Glutinous Rice Ball Star System.</figcaption>
 </figure>
 
@@ -49,34 +49,34 @@ Anyway...the various flavors they had at this nifty shop included black sesame p
 Apparently fresh white asparagus in Taiwan is fairly common. I've ever only seen canned white asparagus in the States, so technically, its flavors are "preserved" on some sort of basis. Something about "canned" just makes the whole experience go flaccid, since you lose the crunch and crispness of fresh white asparagus.
 
 <figure>
-    <img src="/images/blog/022413_more_home_cooking_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022413_more_home_cooking_1_courtesy_fc.jpg"></img>
     <figcaption>Camouflage against the plate.</figcaption>
 </figure>
 
 Traditional steamed fish is "clean steamed" (清烝, qīng zhēng, double boiled), set aside to rest, and then flavored with hot-scallion and ginger-infused oil (fresh scallion and ginger pan fried in some oil, then poured over the fish). In this case, my mother prepared this beautiful striped bass with exactly that method, with a dash of soy sauce and "[glue berries](http://en.wikipedia.org/wiki/Cordia_dichotoma)," which sort of reminded me of capers in brine.
 
 <figure>
-    <img src="/images/blog/022413_more_home_cooking_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022413_more_home_cooking_2_courtesy_fc.jpg"></img>
     <figcaption>Bee-ee-ae-yootiful.</figcaption>
 </figure>
 
 Starfruit is fairly obvious, once cut. If left whole, the fruit sort of looks like a big ol' piece of origami. It's got a high oxalic acid content despite the fact that the fruit itself contains a large amount of beneficial compounds. According to this [article](http://taiwantoday.tw/ct.asp?xItem=190166&ctNode=413), there is a high pesticide count on starfruit, which makes me wonder how safe it is to consume on a frequent basis. The starfruit business in Taiwan hit rock bottom when there were reported cases of kidney failure, which may be related to the high oxalic acid content; frequent instances of kidney failure were usually correlated with increased consumption of carambola, which is essentially, isolated starfruit juice. The same phenomenon may not occur with the ingestion of the whole fruit- fiber and all.
 
 <figure>
-    <img src="/images/blog/022413_more_home_cooking_3_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022413_more_home_cooking_3_courtesy_fc.jpg"></img>
     <figcaption>Origami.</figcaption>
 </figure>
 
 On a more positive note in the same article, Chen Chia-hsin, a resident starfruit farmer in Taiwan, claims that his starfruit is perhaps some of the safest to consume, as he employs "net house farming" with the use of paper bag covers to ward off insects, thereby eliminating the need for pesticides. Furthermore, the "controlled environment" allows him to grow the crop year round instead of just autumn and winter.
 
 <figure>
-    <img src="/images/blog/022413_more_home_cooking_5_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022413_more_home_cooking_5_courtesy_fc.jpg"></img>
     <figcaption>Post fruit-ninja.</figcaption>
 </figure>
 
 The last piece of fruit is technically called a sugar apple, but the way it ripens, tastes, and smells reminds me of a sugary, less astringent, Hawaiian pineapple. Letting it sit around ripens the fruit by ethylene gas (so brown paper bags would work nicely here), but once the hideous green monstrosity is sliced open, it's white fleshy innards will tempt you like no other. Oh, and there's some serious black seeds, so watch yourself.
 
 <figure>
-    <img src="/images/blog/022413_more_home_cooking_4_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022413_more_home_cooking_4_courtesy_fc.jpg"></img>
     <figcaption>Look at how comfortable it is.</figcaption>
 </figure>

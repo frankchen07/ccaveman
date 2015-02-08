@@ -4,7 +4,7 @@ title: Flamethrowers on Wagyu
 category: blog
 tags: [food]  
 summary: Roy Choi's A-Frame
-image: /images/blog/081312_a-frame_r2_1_courtesy_fc_jw.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/081312_a-frame_r2_1_courtesy_fc_jw.jpg
 ---
 
 [A-Frame](http://www.yelp.com/biz/a-frame-los-angeles-2#query:A-Frame), round two.
@@ -16,19 +16,19 @@ image: /images/blog/081312_a-frame_r2_1_courtesy_fc_jw.jpg
 Second encounter in the land of Roy Choi. Dishes this time around were just as good as last time, if not better. I think the description was "spectacular, to the point where I didn't even need to be anywhere close to full to be satisfied." I guess that saves me alot of writing.
 
 <figure>
-    <img src="/images/blog/081312_a-frame_r2_1_courtesy_fc_jw.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/081312_a-frame_r2_1_courtesy_fc_jw.jpg"></img>
     <figcaption>Octopi L.A. Movie?</figcaption>
 </figure>
 
 Portion size on the tataki dish was minuscule but no matter; the result was a fresh explosion of deliciousness in my mouth.
 
 <figure>
-    <img src="/images/blog/081312_a-frame_r2_3_courtesy_fc_jw.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/081312_a-frame_r2_3_courtesy_fc_jw.jpg"></img>
     <figcaption>Tataki. Looks more like a...salad.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/blog/081312_a-frame_r2_2_courtesy_fc_jw.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/081312_a-frame_r2_2_courtesy_fc_jw.jpg"></img>
     <figcaption>Thai Clam Chowda'.</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Propane, the primary fuel used in these sort of blowtorch-flamethrower applicati
 In the case of sashimi-thin meats, searing usually happens in the whole fillet before cutting, so the dangers of overcooking are mitigated. I would suspect the same in beef. It wouldn't make much sense to cut paper-think slices and then think you can successfully sear the top and bottom tenths of a millimeter to perfection. If you wanted that type of precision, a super hot pan would not be your answer. In this case, a blowtorch would suffice. In essence though, a blowtorch is just a small, pencil-thin, portable stove.
 
 <figure>
-    <img src="/images/blog/111612_searing_slicing_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/111612_searing_slicing_courtesy_fc.jpg"></img>
     <figcaption></figcaption>
 </figure>
 

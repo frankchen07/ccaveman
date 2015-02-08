@@ -4,7 +4,7 @@ title: Got Galangal?
 category: blog
 tags: [food]  
 summary: Ginger's older brother
-image: /images/blog/121412_thai_paradise_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/121412_thai_paradise_courtesy_fc.jpg
 ---
 
 [Thai Paradise](http://www.yelp.com/biz/thai-paradise-san-gabriel).
@@ -16,7 +16,7 @@ image: /images/blog/121412_thai_paradise_courtesy_fc.jpg
 I always have to remember that green curries are not forest-green, but rather a yellowish-olive green, due to the coriander, jalapeños and kaffir lime leaves that all contribute to the final color. The yellow hue comes from the addition of lemongrass and galangal. In any case, the green curry here was flavorful. The ratio of warming components (jalapeño, galangal, onion) to cooling components (lime, coconut milk, lemongrass) was perfect; the right ratio layers the flavors nicely, whereas the wrong amount lands you hankering for something more authentic.
 
 <figure>
-    <img src="/images/blog/121412_thai_paradise_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/121412_thai_paradise_courtesy_fc.jpg"></img>
     <figcaption>Not terribly green.</figcaption>
 </figure>
 

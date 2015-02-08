@@ -4,7 +4,7 @@ title: Flipping the Noodle Boat
 category: blog
 tags: [food]  
 summary: Chinese New Years. 
-image: /images/blog/020913_beijing_duck_house_3_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/020913_beijing_duck_house_3_courtesy_fc.jpg
 ---
 
 [Beijing Duck House](http://www.yelp.com/biz/duck-house-monterey-park).
@@ -18,26 +18,26 @@ This special night out was in celebration of Chinese New Year's- where part of t
 First dish of the night was the crispy duck. This is traditionally served with a black bean sauce on the side, with length-wise sliced scallions and fresh cucumber. The order goes: tortilla/bao, slather black bean sauce, fatty duck, fatty duck skin, scallions and cucumbers, eat. If you're fancy/a fatass like me, you can ditch the tortilla and sub in two slices of fatty duck skin above and below.
 
 <figure>
-    <img src="/images/blog/020913_beijing_duck_house_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/020913_beijing_duck_house_2_courtesy_fc.jpg"></img>
     <figcaption></figcaption>
 </figure>
 
 <figure>
-    <img src="/images/blog/020913_beijing_duck_house_3_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/020913_beijing_duck_house_3_courtesy_fc.jpg"></img>
     <figcaption></figcaption>
 </figure>
 
 Eel with sticky rice reminded me of a huge plate of...endless unagi sushi. It was some serious noms. Garlic green beans and spicy eggplant were pretty good, but nothin' fancy. Great flavor to give our taste buds enough variety.
 
 <figure>
-    <img src="/images/blog/020913_beijing_duck_house_6_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/020913_beijing_duck_house_6_courtesy_fc.jpg"></img>
     <figcaption>Warm Sushi replacement?</figcaption>
 </figure>
 
 The steamed fish was done traditional style- steamed, and then with hot oil + soy sauce + scallions + ginger, poured over the top. In order to eat this dish successfully without bringing bad luck to your friends and family, the fish cannot be flipped. This means after devouring the fillet on one side, one is not allowed to flip the fish to get at the meat on the other side; one would have to delicately pick the spine off the fish. Apparently this practice was analogous to "flipping" the metaphorical fishing boat, as fishing in Chinese cultures was a way of obtaining noms, and prosperity usually meant continuous catches during the year. Not flipping the fish eased the superstitious mind, and had the potential promise to never leave one's family hungry.
 
 <figure>
-    <img src="/images/blog/020913_beijing_duck_house_4_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/020913_beijing_duck_house_4_courtesy_fc.jpg"></img>
     <figcaption>Calm seas today.</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ I know pulling noodles requires a high-gluten content within the flour, the stre
 A photo explanation from Harold Mcgee's "On Food and Cooking."
 
 <figure>
-    <img src="/images/blog/052013_kneading_dough_courtesy_hmg.png"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052013_kneading_dough_courtesy_hmg.png"></img>
     <figcaption>When water meets flour meets hands.</figcaption>
 </figure>
 

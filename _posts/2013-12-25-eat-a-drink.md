@@ -4,7 +4,7 @@ title: Eat a Drink!
 category: blog
 tags: [drink]  
 summary: 50 Lán. The best boba.  
-image: /images/blog/030313_50_lan_1_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030313_50_lan_1_courtesy_fc.jpg
 ---
 
 **Beverages.** 50嵐. (50 Lán). The best boba in Taiwan.
@@ -18,7 +18,7 @@ That being said, 50 Lán's boba was to my liking. Not sickly sweet, not too astr
 In the states, most boba shops vary in their flavor, which makes sense because they vary in the tea they use, the form of dairy added, and even the type of sugar used. Usually, the tea is pre-brewed/pre-made/pre-obtained, subsequently combined with fresh heated boba, a dairy component, and a sweetener.
 
 <figure>
-    <img src="/images/blog/030313_50_lan_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030313_50_lan_1_courtesy_fc.jpg"></img>
     <figcaption>I recognized 50. That's about it. Second word was out of my vocabulary range.</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ On top of the entire operation that is needed to even start contemplating about 
 I like my boba to have more of a bodily tea taste than a milky sweetness, and not too many of the chewy tapioca pearls (they never seem to digest well). On the topic of chewy tapioca pearls, now would probably be an excellent time to speak to why tapioca starch doesn't eat like a potato, and why it is able to stay in a spherical shape even under the heat stresses of cooking.
 
 <figure>
-    <img src="/images/blog/030313_50_lan_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030313_50_lan_2_courtesy_fc.jpg"></img>
     <figcaption>I love those English translations.</figcaption>
 </figure>
 

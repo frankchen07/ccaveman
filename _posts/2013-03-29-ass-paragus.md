@@ -4,7 +4,7 @@ title: Ass-paragus
 category: blog
 tags: [food]  
 summary: Our favorite stalky plant. 
-image: /images/blog/101212_community_cafe_1_courtesy_jc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/101212_community_cafe_1_courtesy_jc.jpg
 ---
 
 [Community Cafe](http://www.yelp.com/biz/community-cafe-sonoma).
@@ -16,7 +16,7 @@ image: /images/blog/101212_community_cafe_1_courtesy_jc.jpg
 Solid frittata. The eggs were soft (a sign of not being overcooked) and jammed with asparagus tips, which is my favorite part of the stalky plant. The tender spears melted in my mouth, and accompanied with several hefty servings of salty smoked salmon; it was a pretty nice way to start the day.
 
 <figure>
-    <img src="/images/blog/101212_community_cafe_1_courtesy_jc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/101212_community_cafe_1_courtesy_jc.jpg"></img>
     <figcaption>Things trapped in eggs makes me chuckle.</figcaption>
 </figure>
 

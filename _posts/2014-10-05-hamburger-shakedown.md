@@ -4,7 +4,7 @@ title: Hamburger Shakedown
 category: blog
 tags: [food]  
 summary: Leggo of my hamburger.
-image: /images/blog/031613_shake_shack_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031613_shake_shack_courtesy_fc.jpg
 ---
 
 **Shake Shack.**
@@ -16,7 +16,7 @@ image: /images/blog/031613_shake_shack_courtesy_fc.jpg
 Yes. Everyone wants to know. "How does the Shake Shack burger compare to In and Out? East versus West? Who's the best?"
 
 <figure>
-    <img src="/images/blog/031613_shake_shack_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031613_shake_shack_courtesy_fc.jpg"></img>
     <figcaption>You've got my attention.</figcaption>
 </figure>
 

@@ -4,7 +4,7 @@ title: The Friendly Toast
 category: blog
 tags: []  
 summary: Ze toast in de maurning.
-image: /images/blog/080912_the_friendly_toast_1_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/080912_the_friendly_toast_1_courtesy_fc.jpg
 ---
 
 [The Friendly Toast.](http://www.yelp.com/biz/the-friendly-toast-cambridge)
@@ -16,7 +16,7 @@ image: /images/blog/080912_the_friendly_toast_1_courtesy_fc.jpg
 On any regular day, I wouldn't have a reason to go to Boston, but in this case, the Ancestral Health Symposium was hosted there this year. Last year's was at UCLA, so all I had to do was wake up, and walk into my backyard (somewhat literally). Anywho, attending the symposium not only gave me an opportunity to nerd out on fitness and health stuff, but also, take a mini-vacation in exploring Boston and all of its good eats.
 
 <figure>
-    <img src="/images/blog/080912_the_friendly_toast_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/080912_the_friendly_toast_1_courtesy_fc.jpg"></img>
     <figcaption>Breaking the fast.</figcaption>
 </figure>
 
@@ -65,6 +65,6 @@ Avocado...deviled eggs? Nice. *Self high-five.*
 **Below is a venn diagram of the five items. Pretty cool. Any suggestions on the blank spots?**
 
 <figure>
-    <img src="/images/blog/102912_venn_diagram_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/102912_venn_diagram_courtesy_fc.jpg"></img>
     <figcaption>Wonky, eh?</figcaption>
 </figure>

@@ -4,7 +4,7 @@ title: Fatty Bacteria
 category: blog
 tags: [food]  
 summary: The Tavern funtimes. 
-image: /images/blog/082212_tavern_3_courtesy_fc_rm.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/082212_tavern_3_courtesy_fc_rm.jpg
 ---
 
 [The Tavern](http://www.yelp.com/biz/tavern-los-angeles-2).
@@ -18,17 +18,17 @@ image: /images/blog/082212_tavern_3_courtesy_fc_rm.jpg
 ---
 
 <figure>
-    <img src="/images/blog/082212_tavern_3_courtesy_fc_rm.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/082212_tavern_3_courtesy_fc_rm.jpg"></img>
     <figcaption>Snicker's Bar.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/blog/082212_tavern_1_courtesy_fc_rm.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/082212_tavern_1_courtesy_fc_rm.jpg"></img>
     <figcaption>Saladz.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/blog/082212_tavern_5_courtesy_fc_rm.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/082212_tavern_5_courtesy_fc_rm.jpg"></img>
     <figcaption>Beef brisket with chipotle creme fraiche.</figcaption>
 </figure>
 

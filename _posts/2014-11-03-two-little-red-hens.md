@@ -4,7 +4,7 @@ title: Two Little Red Hens
 category: blog
 tags: [dessert]  
 summary: Cheeeeeesecake.
-image: /images/blog/031713_two_little_red_hens_2_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031713_two_little_red_hens_2_courtesy_fc.jpg
 ---
 
 **Two Little Red Hens.**
@@ -16,7 +16,7 @@ image: /images/blog/031713_two_little_red_hens_2_courtesy_fc.jpg
 Supposedly one of the best places that one can obtain cheese cake in New York, aside from Eileen's Best is here, at Two Little Red Hens. The place can get packed, so one should preferably go when the Christmas season is not going full-tilt boogie. If you do happen to end up going during Christmas or Thanksgiving, you're just gonna have to sit through the crazy line that usually leaves you sitting in the cold. The cheesecake I must say, is worth it.
 
 <figure>
-    <img src="/images/blog/031713_two_little_red_hens_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031713_two_little_red_hens_1_courtesy_fc.jpg"></img>
     <figcaption>Red. How fitting.</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ The cashier was surprisingly from UCLA, my alma mater; she was a student of medi
 The firmness of the cake was the most surprising aspect. Usually cheesecake is softer, but the Red Hen's cheesecake was very firm, full of flavor, and gave my plastic fork a legitimate workout. Was it because the cheesecake was cold? Maybe. Regardless, the firmness of it really enhanced the "meal effect;" it sat inside of me like a chunk of hearty n' hefty meat pie.
 
 <figure>
-    <img src="/images/blog/031713_two_little_red_hens_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031713_two_little_red_hens_2_courtesy_fc.jpg"></img>
     <figcaption>Even the picture looks dense.</figcaption>
 </figure>
 

@@ -4,7 +4,7 @@ title: Hot Jungle Curry
 category: blog
 tags: [food]  
 summary: Destroying my taste buds at Jitlada
-image: /images/blog/062412_jitlada_3_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/062412_jitlada_3_courtesy_fc.jpg
 ---
 
 [Jitlada](http://www.yelp.com/biz/jitlada-thai-los-angeles).
@@ -18,14 +18,14 @@ The only thing I really remember from this restaurant was that it was SO good an
 Overshare.
 
 <figure>
-    <img src="/images/blog/062412_jitlada_3_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/062412_jitlada_3_courtesy_fc.jpg"></img>
     <figcaption>Jungle curry with a side dish of skin grafts.</figcaption>
 </figure>
 
 Whenever I read "curry" on a menu, whether it's coconut milk based, or broth based, a proper curry should always have order to the madness that ensues. Usually, there's a specific order in which the components are brought together. Aromatic spices are toasted off first, and then formed into a paste, with the addition of onions, tomato paste, garlic, chiles, nuts, ginger (all fairly foundational). Depending on the type of curry, one can add or subtract certain items from this list. The paste is sweated off nicely in some neutral-tasting oil (or ghee, which is clarified butter), until it becomes pasty, and the vegetable matter has broken down. This concentrated paste is what imparts a delicious, full-bodied flavor later on when the cook has added coconut milk or broth in order to create the right conditions for cooking the meat and vegetables.
 
 <figure>
-    <img src="/images/blog/062412_jitlada_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/062412_jitlada_1_courtesy_fc.jpg"></img>
     <figcaption>Crying Tiger Beef. I wonder, do the tears of cats make good veal?</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ From my experience, the presence of moisture prevents adequate formation of co
 5. Lots of others, but we'll just cover these basics.
 
 <figure>
-    <img src="/images/blog/093012_cooking_methods_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/093012_cooking_methods_courtesy_fc.jpg"></img>
     <figcaption>Visual representation of heat and cooking style.</figcaption>
 </figure>
 
@@ -65,14 +65,14 @@ From my experience, the presence of moisture prevents adequate formation of co
 **1. Cast iron.** Cast iron offers no protection from the...well...iron of the pan. Trace amounts of iron can come off and affect the subsequent flavors. Cast iron pans also need to be seasoned, as the pan is porous, and needs a layer of polymerized fat (usually lard) to saturate the surface so that you have a viable, non-stick cooking surface.
 
 <figure>
-    <img src="/images/blog/093012_cast_iron_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/093012_cast_iron_courtesy_fc.jpg"></img>
     <figcaption>Kinks in surface. Lard/oil at 500 degrees Fahrenheit. Slick, polymerized surface.</figcaption>
 </figure>
 
 **2. Teflon.** Non-stick pans are essentially normal pans that have been coated with polytetrafluoroethylene (poly- multiple, tetra-four, fluoro-fluorine, ethylene- two carbon backbone). The high electronegativity (electron-lovin') of fluorine mitigates any significant Van der Waals interactions, as PTFE has a structure that cancels out such dipoles (polarity to molecules, like a battery). The carbon-fluorine bond is also toted to be the strongest single bond between carbon and fluorine. Stability and strength of these bonds is what allows it to be "unreactive" to other compounds it touches. Carbon is also effectively shielded by fluorine; since fluorine acts like the secret service for carbon, no interactions are allowed to take place with carbon, and therefore, no sticking occurs (fluorine's bond with carbon is also so strong it won't give it up for anything else, so don't try your moves on fluorine either). Water doesn't even get absorbed by this type of pan. Great for eggs, but not so great for making sauce reductions, as sauce reductions require fond (burned stuck-on bits on the bottom of the pan from cooking meat), and well...PTFE-coated pans won't have much fond to begin with. No fond, no flavor, boring sauce. (Now how much fun would it be to have a can of Teflon, a boogie board, and a big ol' hill?)
 
 <figure>
-    <img src="/images/blog/093012_teflon_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/093012_teflon_courtesy_fc.jpg"></img>
     <figcaption>Carbon, Fluorine. Blue labels represent relative electron density. Fluorine is more negative (electron-loving). n represents multiples, linked together.</figcaption>
 </figure>
 

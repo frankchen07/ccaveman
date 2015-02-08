@@ -4,7 +4,7 @@ title: 24-Hour DUMPLING SHOP?!
 category: blog
 tags: [food]  
 summary: Gong Zheng dumpling shop.
-image: /images/blog/022513_gong_jeng_3_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022513_gong_jeng_3_courtesy_fc.jpg
 ---
 
 **Moving along to Huālián. Gōng Zhèng 24-hour dumpling shop.**
@@ -18,21 +18,21 @@ The trip to Hualien was one that Rock and I had been faux and real planning for 
 Upon arriving in Hualien, we didn't get our bearings straight (another example of best made plans) before we stepped off the train, so finding the hostel became a rather confused endeavor. There was a good thirty minutes of getting lost in the streets, asking for directions at a salon, asking for directions again from strangers, getting lost, walking right past the entrance of the damn place, asking for directions AGAIN, and finally landing ourselves at our destination: a cute red door with the block letters "SLEEPING BOOT." Thankfully, it was spelled correctly.
 
 <figure>
-    <img src="/images/blog/022513_sleeping_boot_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022513_sleeping_boot_1_courtesy_fc.jpg"></img>
     <figcaption>What's sleeping in a boot actually like?</figcaption>
 </figure>
 
 Sleeping Boot was homey, cozy, and pretty damn comfortable; the stress of the hour or so we took trying to find the place quickly melted away. It was essentially a spacious apartment converted into a hostel. There were rooms jam-packed with bunk beds and a kitchen area that could pump out a small microwave meal or two.
 
 <figure>
-    <img src="/images/blog/022513_sleeping_boot_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022513_sleeping_boot_2_courtesy_fc.jpg"></img>
     <figcaption>Cozy comfort.</figcaption>
 </figure>
 
 After dropping our things off, our gracious host provided a culinary recommendation: a 24-hour dumpling shop in the heart of Hualien, which was highly enticing, since any sort of food place that's open at odd hours usually has some kind of interesting crowd late a night (we could join in too!). Also, we hadn't had dinner.
 
 <figure>
-    <img src="/images/blog/022513_gong_jeng_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022513_gong_jeng_1_courtesy_fc.jpg"></img>
     <figcaption>24H was all I saw.</figcaption>
 </figure>
 
@@ -41,14 +41,14 @@ I had a bit of trouble extracting the Chinese words on the menu, so Rock took le
 In regards to the food that we ate, I hope you noticed that I introduced dumplings three times; the three are vastly different, but similar in their own ways. There's obviously a distinction when it comes to the Chinese names, but the English translations turn out to be piss-poor in their descriptive power ("bag," "small basket bag," and "meat dumpling" doesn't provide many verbal hints as to what goes on in each). I'd stick to the Mandarin names for ease of ordering and sanity; the pronunciations aren't too difficult to botch up, even if you don't speak Mandarin.
 
 <figure>
-    <img src="/images/blog/022513_gong_jeng_5_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022513_gong_jeng_5_courtesy_fc.jpg"></img>
     <figcaption>Midnight snacks.</figcaption>
 </figure>
 
 The way I identify differences in the three types of dumplings is mostly by shape and wrapper constituents. The first, bāo zi, is usually identified by the size and shape, but most distinctively, it's soft and has a pillow-like texture as a result of the dough being made and steamed just right.
 
 <figure>
-    <img src="/images/blog/022513_gong_jeng_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022513_gong_jeng_2_courtesy_fc.jpg"></img>
     <figcaption>Pillows. For my stomach.</figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ Nyugen's research into this particular dough recipe led her to biochemist Shirle
 The second type of dumpling, xiǎo lóng bāo, is identified to have the same shape and a thinner skin than bāo zi. The skin is almost translucent, and there is soup inside the dumpling, which is obtained by adding gelatinized pork stock and using fatty cuts of meat. Soup dumplings take the form of "molecular gastronomy before there was molecular gastronomy," (Nyugen). Interesting take.
 
 <figure>
-    <img src="/images/blog/022713_couldnt_find_df-sp_place_4_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022713_couldnt_find_df-sp_place_4_courtesy_fc.jpg"></img>
     <figcaption>Genus: Bao. Species: Xiao Long.</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ The second type of dumpling, xiǎo lóng bāo, is identified to have the same sh
 The third type of dumpling, shŭi jiăo, is functionally similar to xiǎo lóng bāo, but without the soup on the inside. Leaner meat is often used as well. Shŭi jiăo is also wrapped differently (folded over like an mini-empanada, rather than wrapped from the bottom up). The skin is also translucent after steaming; as a kid, I identified them as those "feet-looking" things (or perhaps this was a result of my underdeveloped artistic abilities).
 
 <figure>
-    <img src="/images/blog/022513_gong_jeng_3_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/022513_gong_jeng_3_courtesy_fc.jpg"></img>
     <figcaption>Wrinkly water feet.</figcaption>
 </figure>
 

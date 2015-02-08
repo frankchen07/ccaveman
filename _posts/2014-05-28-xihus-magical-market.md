@@ -4,7 +4,7 @@ title: XiHu's Magical Market
 category: blog
 tags: [beverage]  
 summary: Papaya milk and assorted goods.
-image: /images/blog/030513_xihu_market_entrance_papaya_milk_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030513_xihu_market_entrance_papaya_milk_courtesy_fc.jpg
 ---
 
 **XiHu Market**
@@ -20,7 +20,7 @@ This post is really just going to be about papaya milk. That's all I'm going to 
 Our vested interest in food was sidetracked when Rock stumbled upon a rather green-looking stand selling fresh papaya milk, which was a Taiwanese delicacy that I had not yet experienced at my current age. The papaya milk was lightly sweet and the usual strong papaya flavor was almost undetectable. Its medium thickness oozed a lighter than orange tint, and overall, certainly contained less sugar than assumed. The entire experience was pleasant, a contrast to the heat of the day and a complement to the light orange glow of the sun.
 
 <figure>
-    <img src="/images/blog/030513_xihu_market_entrance_papaya_milk_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030513_xihu_market_entrance_papaya_milk_courtesy_fc.jpg"></img>
     <figcaption>PAPAYA CAN.</figcaption>
 </figure>
 

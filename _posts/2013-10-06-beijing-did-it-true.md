@@ -4,7 +4,7 @@ title: Beijing Did It true
 category: blog
 tags: [food]  
 summary: Beijing Do It True. 
-image: /images/blog/030113_beijing_do_it_true_6_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030113_beijing_do_it_true_6_courtesy_fc.jpg
 ---
 
 **Beijing-Do-It-True.** Another terribly catchy Mandarin translation.
@@ -18,45 +18,45 @@ Rock and I had "Beijing Do It True" on the food list, since Rock had taken the t
 Next up on the unordered list was Beijing Do It True, a restaurant that was and is supposedly famous for seating George Bush Sr., if my memory recalls correctly. This was witnessed by everyone who entered the restaurant by a strategically placed photo on the wall, advertising that particular moment in history. I'm not too keen on restaurants needing to broadcast past patrons; it's interesting, but unnecessary. Just because someone famous ate at a restaurant doesn't change my perception of the food (although hardcore psychologists may disagree). The association is vague. Even worse are places that just post random people with their friends on a wall, found in many boba shops. It's just silliness. I know you're a culinary establishment, and I'm pretty sure you've got turnover of patrons. Right. I'm going to try and not make any more further comments about the taste in advertising-decor. I was there for the food.
 
 <figure>
-    <img src="/images/blog/030113_beijing_do_it_true_1_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030113_beijing_do_it_true_1_courtesy_fc.jpg"></img>
     <figcaption>"Beijing Do It True."</figcaption>
 </figure>
 
 Even before the menu arrived, a petite waitress came around with appetizer offerings; Rock took the liberty of saying, "oh, is this all for us? We'll take all of them!" Unfortunately, we quickly learned that they were the equivalent of 1.5 U.S. dollars each, which in Taiwan, is an exorbitant price to pay for a small appetizer dish. Mandarin-posh banchan could be acquired cheaply elsewhere, and especially in Taiwan; there's *plenty* of things to acquire at a cheap price. That being said, we couldn't pass up on the **headcheese.** 
 
 <figure>
-    <img src="/images/blog/030113_beijing_do_it_true_2_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030113_beijing_do_it_true_2_courtesy_fc.jpg"></img>
     <figcaption>Headcheese.</figcaption>
 </figure>
 
 **Next up was roasted chicken.** The equivalent of roasted duck, but done with a bird exchange. Salty, crispy skin with tender meat and all the delicious gelatinous bits at the ends, a particularly refined salivating concept both visually and orthonasally. Even after the meat is finished, there are dried sinewy ends near the bottom half of the legs that some mean caramelization and concentration in flavor; it's a bit hard to chew, but once you've gotten there, you can't not finish it. I call it the "rotisserie chicken experience." The first bit starts with the crispy skin, then the tender meat, and finally, the crispy-almost-sticky skin with all the crunchy parts. The final part, which people usually don't do, is crack the ends of the bone, split the bone down its length, and suck the juices out, vampire-style. No waste. You could even reboil the bones in a stock to get some extra goodness (although it wouldn't be terribly sanitary or socially acceptable to bag bones from a restaurant, sorry).
 
 <figure>
-    <img src="/images/blog/030113_beijing_do_it_true_3_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030113_beijing_do_it_true_3_courtesy_fc.jpg"></img>
     <figcaption>"The Rotisserie Chicken Experience."</figcaption>
 </figure>
 
 The **braised pork** that arrived shortly there after was part of a greater whole. The entirety was supposed to be merged with a **sesame bun.** The addiction scheme is visually outlined below:
 
 <figure>
-    <img src="/images/blog/030113_beijing_do_it_true_5_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030113_beijing_do_it_true_5_courtesy_fc.jpg"></img>
     <figcaption>Step 1.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/blog/030113_beijing_do_it_true_4_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030113_beijing_do_it_true_4_courtesy_fc.jpg"></img>
     <figcaption>Step 2.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/blog/030113_beijing_do_it_true_8_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030113_beijing_do_it_true_8_courtesy_fc.jpg"></img>
     <figcaption>Intervention.</figcaption>
 </figure>
 
 The last item was essentially a **fried wonton** in a jumbo-stick format. This was stuffed with minced pork, shrimp, and savory vegetables. The texture was not like baby food, and the filling split cleanly with each bite, which made it pleasant to eat because the filling to wrapper ratio stays consistent.
 
 <figure>
-    <img src="/images/blog/030113_beijing_do_it_true_6_courtesy_fc.jpg"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030113_beijing_do_it_true_6_courtesy_fc.jpg"></img>
     <figcaption>When you don't do well in culinary school, they beat you with this.</figcaption>
 </figure>
 
