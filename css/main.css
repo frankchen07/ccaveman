@@ -42,10 +42,10 @@ pre code {
 }
 
 a {
+	color: #b31a39;
+	text-decoration: none;
 	/*color: rgba(80, 160, 228);
 	font-size: 100%;*/
-	color: #333333;
-	text-decoration: none;
 }
 
 a:hover {

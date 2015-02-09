@@ -3,7 +3,7 @@ layout: blog
 title: Chelsea Market
 category: blog
 tags: [food]  
-summary: Chelsea Thai
+summary: Chelsea Thai.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031713_chelsea_thai_courtesy_fc.jpg
 ---
 

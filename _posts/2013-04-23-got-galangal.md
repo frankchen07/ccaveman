@@ -3,7 +3,7 @@ layout: blog
 title: Got Galangal?
 category: blog
 tags: [food]  
-summary: Ginger's older brother
+summary: Ginger's older brother.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/121412_thai_paradise_courtesy_fc.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: blog
 title: Starching it up
 category: blog
 tags: [food]  
-summary: Starched collars, starched meats
+summary: Starched collars, starched meats.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/092012_pineapple_kiwi_fig_courtesy_fc.jpg
 ---
 

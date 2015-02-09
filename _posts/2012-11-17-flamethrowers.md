@@ -3,7 +3,7 @@ layout: blog
 title: Flamethrowers on Wagyu
 category: blog
 tags: [food]  
-summary: Roy Choi's A-Frame
+summary: Roy Choi's A-Frame.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/081312_a-frame_r2_1_courtesy_fc_jw.jpg
 ---
 

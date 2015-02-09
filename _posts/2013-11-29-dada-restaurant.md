@@ -4,7 +4,7 @@ title: DaDa Restaurant
 category: blog
 tags: [food]  
 summary: A properly shared feast.
-image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030213_dada_restaurant_1_courtesy_fc.jpg
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030213_dada_restaurant_5_courtesy_fc.jpg
 ---
 
 **Dada Restaurant.**

@@ -3,7 +3,7 @@ layout: blog
 title: Market at Night
 category: blog
 tags: [food]  
-summary: Night + Market
+summary: Night + Market.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/121912_night_+_market_7_courtesy_fc.jpg
 ---
 

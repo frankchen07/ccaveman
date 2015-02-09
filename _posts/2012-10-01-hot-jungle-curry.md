@@ -3,7 +3,7 @@ layout: blog
 title: Hot Jungle Curry
 category: blog
 tags: [food]  
-summary: Destroying my taste buds at Jitlada
+summary: Destroying my taste buds at Jitlada.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/062412_jitlada_3_courtesy_fc.jpg
 ---
 
