@@ -22,7 +22,7 @@ This place was on the way to Dan Shui, way up in the northern regions of Taiwan,
 
 The small shop (Chinese translation: Big Fatty Seafood Shop) was our pre-university lunch visit. It seemed fairly innocuous- a nondescript fish shop that sat on the edge of a sandy parking lot, right next to a rocky beach filled with stone-shaped anchors. Under the inappropriately small awning, a bunch of towering plastic bins, ready to burst, harbored all sorts of fresh seafood that originated from the morning catch. The bins had some sort of DIY quality to them; random holes drilled everywhere, super glue in odd spots, uneven corners and warped sides, but the whole setup was, as a whole, a surprisingly [effective pyramid of cold water](http://youtu.be/gu44yO2g9jo). Constantly circulating water helps keep the fish from swimming in their own waste. (Add a vacuum bag and warmer water...and you've got yourself a sous-vide).
 
-<iframe width="420" height="315" src="http://youtu.be/gu44yO2g9jo" frameborder="0" allowfullscreen> </iframe>
+<iframe width="420" height="315" src="http://youtu.be/gu44yO2g9jo" frameborder="0" allowfullscreen></iframe>
 
 <figure>
     <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030413_big_fatty_seafood_shop_2_courtesy_fc.jpg"></img>
