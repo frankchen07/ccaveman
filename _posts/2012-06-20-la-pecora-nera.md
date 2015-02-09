@@ -7,7 +7,7 @@ summary: La Pecora Nera grazing in the outskirts of Rome.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/051812_la_pecora_nera_6_courtesy_jc.jpg
 ---
 
-Fiumicino, Lazio, Rome. [La Pecora Nera](http://www.tripadvisor.com/Restaurant_Review-g656615-d1590341-Reviews-La_Pecora_Nera-Fiumicino_Province_of_Rome_Lazio.html).
+[La Pecora Nera](http://www.tripadvisor.com/Restaurant_Review-g656615-d1590341-Reviews-La_Pecora_Nera-Fiumicino_Province_of_Rome_Lazio.html)
 
 **Appetizer.** Prosciutto. Salami. Cheese with pears and honey.
 

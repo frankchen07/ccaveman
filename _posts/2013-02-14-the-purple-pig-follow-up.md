@@ -7,7 +7,7 @@ summary: In response to comments.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/021313_meat_tightness_courtesy_fc.jpg
 ---
 
-[The Purple Pig](http://www.yelp.com/search?find_desc=The+Purple+Pig&find_loc=Chicago&ns=1).
+[The Purple Pig](http://www.yelp.com/search?find_desc=The+Purple+Pig&find_loc=Chicago&ns=1)
 
 **Follow-up questions by rborzenc, regarding post-marination and going calcium gung-ho.**
 

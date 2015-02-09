@@ -7,7 +7,7 @@ summary: Hometown gastropub American food.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/072012_freddys_5_courtesy_fc_jw.jpg
 ---
 
-[Freddy Small's Bar and Kitchen](http://www.yelp.com/biz/freddy-smalls-bar-and-kitchen-los-angeles).
+[Freddy Small's Bar and Kitchen](http://www.yelp.com/biz/freddy-smalls-bar-and-kitchen-los-angeles)
 
 **Tapas style.** Alkeehols n' ethanols to start. Fried brussel sprouts. Chicken liver toast. Marrow, with Yorkshire pudding, corned beef and homemade pickles n' sauerkraut.
 

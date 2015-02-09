@@ -7,8 +7,6 @@ summary: Leggo of my hamburger.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031613_shake_shack_courtesy_fc.jpg
 ---
 
-**Shake Shack.**
-
 **Feast.** Double Hamburger.
 
 ---

@@ -7,7 +7,7 @@ summary: Taverna Azzura in Sorrento, Italy
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/bloghttps://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052212_taverna_azzura_6_courtesy_jc.jpg
 ---
 
-[Taverna Azzura](http://www.tripadvisor.com/Restaurant_Review-g187782-d1082944-Reviews-Ristorante_Taverna_Azzurra-Sorrento_Province_of_Naples_Campania.html).
+[Taverna Azzura](http://www.tripadvisor.com/Restaurant_Review-g187782-d1082944-Reviews-Ristorante_Taverna_Azzurra-Sorrento_Province_of_Naples_Campania.html)
 
 **Feast.** Shrimp cocktail. Assorted "raw" plate. Clam Pasta. Octopus Casserole. Crabmeat-stuffed Ravioli. Grilled...Fish (totally don't remember the name. But it was good. Tender).
 

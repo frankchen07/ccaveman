@@ -7,7 +7,7 @@ summary: Destroying my taste buds at Jitlada.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/062412_jitlada_3_courtesy_fc.jpg
 ---
 
-[Jitlada](http://www.yelp.com/biz/jitlada-thai-los-angeles).
+[Jitlada](http://www.yelp.com/biz/jitlada-thai-los-angeles)
 
 **Appetizer.** Phangga Jungle Curry, Pork spare ribs with Thai eggplant. Crying Tiger Beef.
 

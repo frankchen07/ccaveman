@@ -41,7 +41,7 @@ In some traditional cultures, the uncooked grains of rice are sautéed/browned w
 
 **Cooking the rice (boiling in water).**
 
-Starch granules begin absorbing the water, and eventually reach a gelatinization phase (but no gelatin is involved. See previous [post](http://www.thecornerstonecaveman.com/?p=752).) Depending on the type of rice, the ratio of amylose to amylopectin will vary, which will generate different results. Different ratios of amylose and amylopectin will require the user to carefully understand how much water to use, as well as how the rice behaves post-cooking and during reheating.
+Starch granules begin absorbing the water, and eventually reach a gelatinization phase (but no gelatin is involved. See previous [post](http://frankchen07.github.io/ccaveman/blog/lucques-2.html) Depending on the type of rice, the ratio of amylose to amylopectin will vary, which will generate different results. Different ratios of amylose and amylopectin will require the user to carefully understand how much water to use, as well as how the rice behaves post-cooking and during reheating.
 
 **Amylose** is a relatively long chain of glucose (approximately 1,000 molecules) and is a straight chain with several branch points. Amylose, in general, needs more water and longer heating times to reach the gelation phase.
 

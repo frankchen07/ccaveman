@@ -7,7 +7,7 @@ summary: Black hoggin' all the food.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/062912_black_hogg_3_courtesy_fc.jpg
 ---
 
-[Black Hogg](http://www.yelp.com/biz/black-hogg-los-angeles).**
+[Black Hogg](http://www.yelp.com/biz/black-hogg-los-angeles)
 
 **Feast.** Spicy Chicken Liver on Toast with Chicken Cracklin'. Popcorn Bacon, Maple Crema. Roast Brussel Sprouts, Anchovy Citronette, Gremolata. Pork Belly Tacos, Fuji Apple Slaw, Jalapeño Relish. Niman Ranch Heritage Pork Chop, Rice & Beans, Mojo.
 

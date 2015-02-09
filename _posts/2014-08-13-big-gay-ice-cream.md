@@ -7,7 +7,7 @@ summary: I missed the truck in LA, so I went to NY.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031613_big_gay_ice_cream_shop_2_courtesy_fc.jpg
 ---
 
-**Big Gay Ice Cream Shop.**
+[Big Gay Ice Cream Shop](http://www.yelp.com/biz/big-gay-ice-cream-shop-new-york)
 
 **Dessert** Ice cream. The salty pimp.
 
@@ -33,7 +33,9 @@ Disregarding the fact that I still didn't quite enjoy the salty pimp, I wouldn't
 
 Still, there still was science behind the madness. It was sort of ironic that the first thing I tried at Big Gay ICE CREAM was something akin to SOFT SERVE. I want to say it tasted like, felt like, and certainly looked like soft serve, but I could have been wrong.
 
-Softer ice cream, in this case, is made by the introduction of additional air while freezing (it's easier to manipulate air, hence, soft serve being more malleable). In addition to this, soft serve is made and stored around -4 degrees Celsius, compared to the -15 degrees Celsius or so that normal ice cream is stored at. Because of the increased air content, the ice cream takes on a lighter color, which can either be as a result of increased air or the addition of food coloring. Even if the taste of the salty pimp wasn't great, I would have preferred a firmer texture for cold treats. Near the end, I felt like I was scooping ice cream goop out of a paper plate that was just about to disintegrate under the weight of melted liquid. Maybe I would have liked it better if I left it to melt and refreeze again, without all the extra air. Reconstituted soft serve striving to be ice cream for breakfast? How about [this](https://www.youtube.com/watch?v=SozZHZAWS64)? ....Blerg.
+Softer ice cream, in this case, is made by the introduction of additional air while freezing (it's easier to manipulate air, hence, soft serve being more malleable). In addition to this, soft serve is made and stored around -4 degrees Celsius, compared to the -15 degrees Celsius or so that normal ice cream is stored at. Because of the increased air content, the ice cream takes on a lighter color, which can either be as a result of increased air or the addition of food coloring. Even if the taste of the salty pimp wasn't great, I would have preferred a firmer texture for cold treats. Near the end, I felt like I was scooping ice cream goop out of a paper plate that was just about to disintegrate under the weight of melted liquid. Maybe I would have liked it better if I left it to melt and refreeze again, without all the extra air. Reconstituted soft serve striving to be ice cream for breakfast? How about this?
+
+<iframe width="854" height="510" src="https://www.youtube.com/embed/SozZHZAWS64" frameborder="0" allowfullscreen></iframe>
 
 **References:**
 

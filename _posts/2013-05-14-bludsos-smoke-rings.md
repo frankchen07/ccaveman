@@ -7,7 +7,7 @@ summary: Barbecue and delicious smoke rings.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/051313_bbq_birthday_courtesy_fc.jpg
 ---
 
-[Bludso's BBQ](http://www.yelp.com/biz/bludsos-bbq-compton).
+[Bludso's BBQ](http://www.yelp.com/biz/bludsos-bbq-compton)
 
 **Feast.** Texas Sampler.
 

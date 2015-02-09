@@ -7,7 +7,7 @@ summary: Don't drink the water!
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/050113_strawberry_monster_courtesy_fc.jpg
 ---
 
-[Urth Caffe](http://www.yelp.com/biz/urth-caffe-beverly-hills-3).
+[Urth Caffe](http://www.yelp.com/biz/urth-caffe-beverly-hills-3)
 
 **A discussion on lemon and cucumber water.**
 

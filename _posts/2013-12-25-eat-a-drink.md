@@ -7,6 +7,8 @@ summary: 50 Lán. The best boba.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/030313_50_lan_1_courtesy_fc.jpg
 ---
 
+**50 Lán.**
+
 **Beverages.** 50嵐. (50 Lán). The best boba in Taiwan.
 
 ---

@@ -7,7 +7,7 @@ summary: Ike Jime and whacking fish.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/111612_fish_collar_courtesy_fc.jpg
 ---
 
-[Yanagi](http://www.yelp.com/biz/yanagi-japanese-bistro-redondo-beach).
+[Yanagi](http://www.yelp.com/biz/yanagi-japanese-bistro-redondo-beach)
 
 **Feast.** Salmon roe sushi. Hamachi Kama.
 
@@ -41,7 +41,7 @@ The Asia-Pacific Economic Corporation specifies the practice of *ike jime* in th
 
 However, what are the effects of *ike jime* on cooked fish? Does the humane slaughter (eh, oxymoron?) and bleeding of fish confer a different taste when, grilled, poached...etc?
 
-Some scientific articles detail the production of high quality fish muscle as a careful process of reducing "pre-harvest" exercise. The less the fish moves, the better it is for the fish. Basically, rested muscles taste better than exhausted muscles. The benefits of *ike jime* come from complete destruction of the brain, which not only inhibits the fish from moving and further exhausting the muscles, but also delays the *rigor mortis* process (the irreversible hardening of flesh, due to the lack of ATP. I write about this [here](http://thecornerstonecaveman.com/?p=469)). Less *rigor mortis* from the start means the muscle proteins are less contracted and looser to begin with. Cooking meat that is less contracted usually confers more tender flesh. (Unless you severely overcook it, which has been known to happen in my household/by my hands).
+Some scientific articles detail the production of high quality fish muscle as a careful process of reducing "pre-harvest" exercise. The less the fish moves, the better it is for the fish. Basically, rested muscles taste better than exhausted muscles. The benefits of *ike jime* come from complete destruction of the brain, which not only inhibits the fish from moving and further exhausting the muscles, but also delays the *rigor mortis* process (the irreversible hardening of flesh, due to the lack of ATP. I write about this [here](http://frankchen07.github.io/ccaveman/blog/the-p-word.html). Less *rigor mortis* from the start means the muscle proteins are less contracted and looser to begin with. Cooking meat that is less contracted usually confers more tender flesh. (Unless you severely overcook it, which has been known to happen in my household/by my hands).
 
 <figure>
     <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/081712_yanagi_2_courtesy_fc.jpg"></img>

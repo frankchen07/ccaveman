@@ -7,7 +7,7 @@ summary: Snacks at the bar. Superba(r).
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/121312_superba_2_courtesy_fc.jpg
 ---
 
-[Superba Snack Bar](http://www.yelp.com/biz/superba-snack-bar-los-angeles).
+[Superba Snack Bar](http://www.yelp.com/biz/superba-snack-bar-los-angeles)
 
 **Feast (Snack?).** Mushroom special (shiitake?) with homemade ricotta. Brussels sprouts in a dashi broth with poached egg white. Cauliflower T-bone steak. Chicken liva' toast.
 

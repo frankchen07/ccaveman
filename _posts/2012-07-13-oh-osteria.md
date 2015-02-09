@@ -7,7 +7,7 @@ summary: Food in Italy.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052012_lantico_noe_3_courtesy_jc.jpg
 ---
 
-[L'Antico Noe](http://www.yelp.com/biz/l-antico-no%C3%A8-firenze-2).
+[L'Antico Noe](http://www.yelp.com/biz/l-antico-no%C3%A8-firenze-2)
 
 **Appetizer.** Simple salad with balsamic reduction (mixed salad).
 

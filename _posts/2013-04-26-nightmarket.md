@@ -7,7 +7,7 @@ summary: Night + Market.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/121912_night_+_market_7_courtesy_fc.jpg
 ---
 
-[Night + Market](http://www.yelp.com/biz/night-market-west-hollywood).
+[Night + Market](http://www.yelp.com/biz/night-market-west-hollywood)
 
 **Feast.** Raw beef. Pork satay skewers. Pork toro (fatty hog collar). Fried pig tail. Sai krock isaan (fermented pork sausage). Coconut rice. Nam prik ong (fried pork rinds). Kao soi (pork ragout). Pad kee mao (drunken noodles with short ribs). God, that was a alot of food.
 

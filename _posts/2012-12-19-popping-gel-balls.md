@@ -7,7 +7,7 @@ summary: Popping gel balls.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/082312_rustic_canyon_2_courtesy_fc.jpg
 ---
 
-[Rustic Canyon](http://www.yelp.com/biz/rustic-canyon-santa-monica).
+[Rustic Canyon](http://www.yelp.com/biz/rustic-canyon-santa-monica)
 
 **Feast.** Raw fish. Quail with mash, with berries of some sort?
 

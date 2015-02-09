@@ -49,7 +49,9 @@ Jiǔ Fèn is an area that was and still is known for its night lanterns. The who
 
 They even had a [stand-alone apparatus](http://www.youtube.com/watch?v=tBz396Q9FQ8) for safely dismantling an uncomfortably large block of peanut brittle. This gadget of course, was hand-operated, nowhere to be found in a Bed Bath & Beyond, and probably not patented.
 
-**A-Ghan Auntie's red bean & taro/sweet potato balls.** [This was what](http://www.youtube.com/watch?v=IrPU52KUHng) was going on in the back of the store. Out of context, and it could easily be mistaken for a crack-cocaine plant.
+**A-Ghan Auntie's red bean & taro/sweet potato balls.** This was what was going on in the back of the store. Out of context, and it could easily be mistaken for a crack-cocaine plant.
+
+<iframe width="854" height="510" src="https://www.youtube.com/embed/IrPU52KUHng" frameborder="0" allowfullscreen></iframe>
 
 This was the storefront, and what was going to go on into my mouth. Various forms of powdered starch reformed into semi-recognizable edibles. Easily digestible and pretty fun to eat.
 
@@ -60,6 +62,6 @@ This was the storefront, and what was going to go on into my mouth. Various form
     <figcaption>Interesting.</figcaption>
 </figure>
 
-** Cheeers! Eat fun things.**
+**Cheeers! Eat fun things.**
 
 

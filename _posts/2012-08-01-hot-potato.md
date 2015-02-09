@@ -7,7 +7,7 @@ summary: Hot potato! Hot hot potato!
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052512_sternbrau_3_courtesy_jc.jpg
 ---
 
-[Sternbräu](http://www.tripadvisor.com/Restaurant_Review-g190454-d2102943-Reviews-7_Stern_Brau-Vienna.html).
+[Sternbräu](http://www.tripadvisor.com/Restaurant_Review-g190454-d2102943-Reviews-7_Stern_Brau-Vienna.html)
 
 **Appetizer.** Crazy salad with smoked salmon and warm potatoes.
 

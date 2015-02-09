@@ -64,7 +64,7 @@ When making a ground shrimp/pork/beef/meat filling, the key is to keep the cente
 
 1. One way to get meat proteins to bind together, is the use of a **coarse / semi-fine grind in a 1:1 ratio.** The understanding of this particular idea is courtesy from **America's Test Kitchen.** The semi-fine grind exposes more surface surface area, and the natural enzymes of the meat break down the myosin (fiber filament proteins), which over time, form a sticky glue to hold the ground meat in a coherent mass. The coarse grind is simply there to preserve texture.
 
-2. The **addition of salt** speeds up the above process, and also flavors the meat as well. Because of salt's  hydroscopic action, salt draws the myosin out of the muscle fibers with greater gusto, and allows an greater amount of moisture to be retained due to [chloride ion repulsion.](pass-the-salt-please/) This preserves juiciness (as long as you don't blast the poor thing with excessive heat over excessive time).
+2. The **addition of salt** speeds up the above process, and also flavors the meat as well. Because of salt's hydroscopic action, salt draws the myosin out of the muscle fibers with greater gusto, and allows an greater amount of moisture to be retained due to [chloride ion repulsion.](pass-the-salt-please/) This preserves juiciness (as long as you don't blast the poor thing with excessive heat over excessive time).
 
 **So, the recommendation for ground meat?** Run it all through once on coarse, take half of it, run it through again on coarse, salt it, ball it, flavor it, let it chill, and let the enzymes hang out. Thanks ATK and science.
 

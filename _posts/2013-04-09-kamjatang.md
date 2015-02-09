@@ -7,7 +7,7 @@ summary: More uniquely delicious Korean stews.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/110712_gamjagol_2_courtesy_fc.jpg
 ---
 
-[Songpa Yukejang](http://www.yelp.com/biz/songpa-yukejang-pleasanton), and [Gamjagol](http://www.yelp.com/biz/gam-ja-gol-los-angeles).
+[Songpa Yukejang](http://www.yelp.com/biz/songpa-yukejang-pleasanton), and [Gamjagol](http://www.yelp.com/biz/gam-ja-gol-los-angeles)
 
 **Feast.** Kamjatang, banchan, galbi.
 

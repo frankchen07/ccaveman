@@ -7,7 +7,7 @@ summary: Japanese skewers on Sawtelle Boulevard.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/081812_robata-ya_7_courtesy_fc.jpg
 ---
 
-[Robata-Ya](http://www.yelp.com/biz/robata-ya-los-angeles).
+[Robata-Ya](http://www.yelp.com/biz/robata-ya-los-angeles)
 
 **Feast.** Japanese-style skewers. Chicken liver. Special chicken heart. Sirloin. Belly-wrapped asparagus. Negi Chashu (Braised pork). Short Rib. Pork Belly. Peking Duck.
 

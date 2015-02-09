@@ -7,7 +7,7 @@ summary: Ethiopian food adventures.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/021413_merkato_2_courtesy_fc.jpg
 ---
 
-[Merkato Marketplace](http://www.yelp.com/biz/merkato-ethiopian-restaurant-and-market-los-angeles).
+[Merkato Marketplace](http://www.yelp.com/biz/merkato-ethiopian-restaurant-and-market-los-angeles)
 
 **Feast.** Awaze tibbs with gluten-free injera.
 

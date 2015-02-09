@@ -7,7 +7,7 @@ summary: Barbecue in the N-Y-City.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031713_mighty_quinns_bbq_2_courtesy_fc.jpg
 ---
 
-**Mighty Quinn's BBQ.**
+[Mighty Quinn's BBQ](http://www.yelp.com/biz/mighty-quinns-barbeque-new-york)
 
 **Feast.** Beef brisket. Pickled vegetables. Burnt-end baked beans.
 

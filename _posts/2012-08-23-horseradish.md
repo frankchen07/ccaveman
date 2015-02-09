@@ -7,7 +7,7 @@ summary: Horseradish, the root of all pain.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/052712_salzachgrill_5_courtesy_jc.jpg
 ---
 
-[Salzachgrill](http://www.tripadvisor.com/Hotel_Review-g190441-d253252-Reviews-Hotel_Sacher_Salzburg-Salzburg_Austrian_Alps.html).
+[Salzachgrill](http://www.tripadvisor.com/Hotel_Review-g190441-d253252-Reviews-Hotel_Sacher_Salzburg-Salzburg_Austrian_Alps.html)
 
 **Pre-dinner appetizer.** Imiglikos (wine, cavino. patras. gr-lieblich). Not sure what those mean. But it was the description on the wine menu.
 

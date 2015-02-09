@@ -7,7 +7,7 @@ summary: Chinese New Years.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/020913_beijing_duck_house_3_courtesy_fc.jpg
 ---
 
-[Beijing Duck House](http://www.yelp.com/biz/duck-house-monterey-park).
+[Beijing Duck House](http://www.yelp.com/biz/duck-house-monterey-park)
 
 **Feast.** Crispy duck with green onion and black bean sauce. Eel with sticky rice. Market steamed fish. Garlic green beans. Spicy eggplant. Chicken chow-mein.
 

@@ -7,7 +7,7 @@ summary: Ze toast in de maurning.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/080912_the_friendly_toast_1_courtesy_fc.jpg
 ---
 
-[The Friendly Toast.](http://www.yelp.com/biz/the-friendly-toast-cambridge)
+[The Friendly Toast](http://www.yelp.com/biz/the-friendly-toast-cambridge)
 
 **Breakfast,** in unnaturally humid weather. Guy's Scramble.
 

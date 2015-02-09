@@ -7,7 +7,7 @@ summary: NYC Halal Guys.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031513_the_halal_cart_1_courtesy_fc.jpg
 ---
 
-**The Halal Cart on 53rd and 6th.**
+[The Halal Cart on 53rd and 6th](http://www.yelp.com/biz/the-halal-guys-new-york-2)
 
 **Feast.** Chicken-Gyro combo plate.
 

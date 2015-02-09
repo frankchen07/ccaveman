@@ -7,7 +7,7 @@ summary: Our favorite stalky plant.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/101212_community_cafe_1_courtesy_jc.jpg
 ---
 
-[Community Cafe](http://www.yelp.com/biz/community-cafe-sonoma).
+[Community Cafe](http://www.yelp.com/biz/community-cafe-sonoma)
 
 **Breakfast.** Asparagus frittata with goat cheese.
 

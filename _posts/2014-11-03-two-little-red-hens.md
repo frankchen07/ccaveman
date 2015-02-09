@@ -7,7 +7,7 @@ summary: Cheeeeeesecake.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031713_two_little_red_hens_2_courtesy_fc.jpg
 ---
 
-**Two Little Red Hens.**
+[Two Little Red Hens](http://www.yelp.com/biz/two-little-red-hens-new-york)
 
 **Dessert.** New York cheesecake.
 

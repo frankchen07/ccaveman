@@ -7,7 +7,7 @@ summary: Ginger's older brother.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/121412_thai_paradise_courtesy_fc.jpg
 ---
 
-[Thai Paradise](http://www.yelp.com/biz/thai-paradise-san-gabriel).
+[Thai Paradise](http://www.yelp.com/biz/thai-paradise-san-gabriel)
 
 **Feast.** Green Curry with shrimp.
 

@@ -7,7 +7,7 @@ summary: Huckleberry brunch food.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/040812_huckleberry_courtesy_tram_n.jpg
 ---
 
-[**Huckleberry.**](http://www.yelp.com/biz/huckleberry-santa-monica)
+[Huckleberry](http://www.yelp.com/biz/huckleberry-santa-monica)
 
 **Post-hike Feast.** Niman Ranch Brisket Hash with two eggs overeasy and arugula. Cold, roasted brussel sprouts.
 

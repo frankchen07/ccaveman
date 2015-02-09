@@ -7,7 +7,7 @@ summary: The Tavern funtimes.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/082212_tavern_3_courtesy_fc_rm.jpg
 ---
 
-[The Tavern](http://www.yelp.com/biz/tavern-los-angeles-2).
+[The Tavern](http://www.yelp.com/biz/tavern-los-angeles-2)
 
 **Appetizer.** Bacon-wrapped dates. Arugula salad with figs, peaches, ricotta? and marcona almonds.
 

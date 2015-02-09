@@ -7,7 +7,7 @@ summary: Starched collars, starched meats.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/092012_pineapple_kiwi_fig_courtesy_fc.jpg
 ---
 
-[Kim Yang Asian Cuisine](http://www.yelp.com/biz/kim-yang-paris).
+[Kim Yang Asian Cuisine](http://www.yelp.com/biz/kim-yang-paris)
 
 **Feast.** Steak cubes. Seasonal vegetable. Steamed fish. Chicken, bamboo, mushroom. Spicy scallop sauté.
 

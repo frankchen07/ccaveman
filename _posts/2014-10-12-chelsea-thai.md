@@ -7,7 +7,7 @@ summary: Chelsea Thai.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/031713_chelsea_thai_courtesy_fc.jpg
 ---
 
-**Chelsea Market. Chelsea Thai.**
+[Chelsea Thai](http://www.yelp.com/biz/chelsea-thai-wholesale-new-york)
 
 **Feast.** Yum Woon Sen Shrimp salad.
 

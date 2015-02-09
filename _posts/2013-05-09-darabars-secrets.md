@@ -7,7 +7,7 @@ summary: Secret Thai food.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/020313_darabar_3_courtesy_fc.jpg
 ---
 
-[Darabar SECRET Thai Cuisine](http://www.yelp.com/biz/darabar-secret-thai-cuisine-los-angeles).
+[Darabar SECRET Thai Cuisine](http://www.yelp.com/biz/darabar-secret-thai-cuisine-los-angeles)
 
 **Feast.** Eggplant salad. Pad See-Iw. Spicy spaghetti. Kaeng som kung cha om (sour curry with shrimp and cha-om omelette). Chicken coconut curry. Kaeng pa muu (Wild-boar jungle curry).
 
@@ -38,7 +38,7 @@ The rest of the ordered items was based on some hungry perception and [this site
     <figcaption>Sour curry in a sombrero bowl.</figcaption>
 </figure>
 
-The kaeng pa muu was a jungle curry that apparently harbored wild boar. My taste buds shudder in fear when "jungle curry" is mentioned, as my previous experience at [Jitlada]() nearly resulted in my early demise by crazy hot curry. I couldn't taste a real difference (who knows if wild boar was actually used) because part of me was trying not to sweat my clothes off in a frenzy of spice. A tad bit too hot for me, so all in all, the flavors were a bit muted. But this was not the fault of the curry itself; my taste buds were just homozygous for being P-dominant (full-on pansy).
+The kaeng pa muu was a jungle curry that apparently harbored wild boar. My taste buds shudder in fear when "jungle curry" is mentioned, as my previous experience at [Jitlada](http://frankchen07.github.io/ccaveman/blog/hot-jungle-curry.html) nearly resulted in my early demise by crazy hot curry. I couldn't taste a real difference (who knows if wild boar was actually used) because part of me was trying not to sweat my clothes off in a frenzy of spice. A tad bit too hot for me, so all in all, the flavors were a bit muted. But this was not the fault of the curry itself; my taste buds were just homozygous for being P-dominant (full-on pansy).
 
 <figure>
     <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/020313_darabar_6_courtesy_fc.jpg"></img>

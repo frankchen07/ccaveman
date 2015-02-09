@@ -7,7 +7,7 @@ summary: The Cottage in San Diego.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/083112_the_cottage_courtesy_fc.jpg
 ---
 
-[The Cottage](http://www.yelp.com/biz/the-cottage-la-jolla).
+[The Cottage](http://www.yelp.com/biz/the-cottage-la-jolla)
 
 **Feast.** Olive-oil seared scallops with wilted spinach and sticky rice.
 

@@ -7,7 +7,7 @@ summary: The Anchor(ed) Bankside.
 image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/051712_pyrex_courtesy_google_images.jpg
 ---
 
-London, [The Anchor Bankside](http://www.yelp.com/biz/the-anchor-pub-and-johnsons-tearoom-london#query:The%20Anchor%20Bankside)
+[The Anchor Bankside](http://www.yelp.com/biz/the-anchor-pub-and-johnsons-tearoom-london#query:The%20Anchor%20Bankside)
 
 **Feast.** Crispy pork belly with braised red cabbage and mashed potato.
 
