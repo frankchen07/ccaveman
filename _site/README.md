@@ -4,7 +4,7 @@ Special thanks to [PasinDu De Silva](http://pasindud.github.io/), creator of thi
 
 # Welcome
 
-Welcome to [The Cornerstone Caveman](thecornerstonecaveman.com). Here you'll find my adventures in food science and restaurant hopping.
+Welcome to [The Cornerstone Caveman](www.thecornerstonecaveman.com). Here you'll find my adventures in food science and restaurant hopping.
 
 Enjoy!
 
