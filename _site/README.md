@@ -1,9 +1,11 @@
-#Jekyll Masonry Theme
+# Jekyll Masonry Theme
 
-This using masonry griding to give a nice design
+Special thanks to [PasinDu De Silva](http://pasindud.github.io/), creator of this particular Jekyll theme.
 
-Demo - [http://pasindud.github.io/](http://pasindud.github.io/)
+# Welcome
 
-Dev by Pasindu De Silva
+Welcome to [The Cornerstone Caveman](www.thecornerstonecaveman.com). Here you'll find my adventures in food science and restaurant hopping.
 
-Was orignial authored by [Arunoda](https://github.com/arunoda)
+Enjoy!
+
+~F
