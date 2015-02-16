@@ -4,7 +4,7 @@ title: Inspiring Blog Award
 category: blog
 tags: [blog]  
 summary: Nomination for an award!
-image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/img_inspr.png
+image: https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/img_inspr.jpg
 ---
 
 **Foods for the Soul nominated me for the "inspiring blog" award. I'm super flattered. I didn't think much would result from my writings and drawings except some food poisoning and hate mail, so I'm deeply honored.**
@@ -18,7 +18,7 @@ Thanks!
 Apparently, there are rules for this kind of award.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/img_inspr.png"></img>
+    <img src="https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/blog/img_inspr.jpg"></img>
     <figcaption>Some funky lighting. Frisee-looking salad with Hamachi Kama.</figcaption>
 </figure>
 
