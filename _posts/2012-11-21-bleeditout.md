@@ -35,7 +35,7 @@ The official process is outlined by the Asia-Pacific Economic Corporation:
 
 A search of Dr. Google revealed an *ike jime* tool, as shown [here](http://www.youtube.com/watch?v=PY9ELfzzsgA). They call it a "brain immobilizer," which directly incapacitates the fish, and kills it humanely. The "brain immobilizer" (basically a glorified screwdriver) is inserted between the main gills and the second row of gills, and angled slightly downward, instantly targeting the medulla oblongata. The fish is then drained on an ice slurry through a major artery (the caudal vein). Interesting video. Sort of promotional.
 
-The bleeding that takes place after *ike jime* usually entails bleeding the fish from the major artery on the front of the fish, as well as the tail. Fish are then quickly chilled _while bleeding _in order improve the fishes' circulation (whatever's left of it...).
+The bleeding that takes place after *ike jime* usually entails bleeding the fish from the major artery on the front of the fish, as well as the tail. Fish are then quickly chilled while bleeding in order improve the fishes' circulation (whatever's left of it...).
 
 The Asia-Pacific Economic Corporation specifies the practice of *ike jime* in the sushi and sashimi markets; there is a demand for this type of practice, especially in Japanese waters.
 
