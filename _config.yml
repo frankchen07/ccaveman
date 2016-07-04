@@ -1,18 +1,18 @@
-permalink: /:categories/:title.html
-#url: "thecornerstonecaveman.com"
-url: "http://frankchen07.github.io/ccaveman"
-#url: "http://localhost:4000"
-blog_title: "The Cornerstone Caveman"  # tab title
-title: THE CORNERSTONE CAVEMAN
-full_name: "The Cornerstone Caveman"  # footer
-first_name: "Frank"  # on posts 
-last_name: ""  # on posts
-author_img_name_path: "https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/users/021012_avocado_courtesy_fc.jpg"
-disqus_shortname: "ccaveman"
-copyright_year: "2012"
-google_analytics_code: ""
-aboutme: "Food. Science. Simplicity."
-twitter: "TCCaveman"
-github: "frankchen07"
-facebook: "frankchen07"
-linkedin: "frankchen07"
+permalink                  : /:categories/:title.html
+# url                        : "thecornerstonecaveman.com"
+url                        : "http://frankchen07.github.io/ccaveman"
+# url                        : "http://localhost:4000"
+blog_title                 : "The Cornerstone Caveman"  # tab title
+title                      : THE CORNERSTONE CAVEMAN
+full_name                  : "The Cornerstone Caveman"  # footer
+first_name                 : "Frank"  # on posts 
+last_name                  : ""  # on posts
+author_img_name_path       : "https://raw.githubusercontent.com/frankchen07/ccaveman/gh-pages/images/users/021012_avocado_courtesy_fc.jpg"
+disqus_shortname           : "ccaveman"
+copyright_year             : "2012"
+google_analytics_code      : ""
+aboutme                    : "Food. Science. Simplicity."
+twitter                    : "TCCaveman"
+github                     : "frankchen07"
+facebook                   : "frankchen07"
+linkedin                   : "frankchen07"
