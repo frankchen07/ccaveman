@@ -1,4 +1,5 @@
 permalink                  : /:categories/:title.html
+baseurl                    : "/ccaveman"
 url                        : "http://frankchen07.github.io/ccaveman"
 # url                        : "http://localhost:4000"
 blog_title                 : "The Cornerstone Caveman"  # tab title
